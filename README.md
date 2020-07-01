@@ -6,7 +6,8 @@ General:
 ·Upload lab 1 in one html 
   -HY:DONE
   
-·Provide link to original lab 1
+·Provide link to original lab 1 in lab_1_links
+  -HY:DONE
   
 Technician:
 ·Setup the repo and make sure everyone can sync it to their desktop (using GitHub desktop software) --DONE

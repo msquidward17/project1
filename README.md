@@ -3,11 +3,9 @@ TODO:
 
 General:
 
-·Upload lab 1 in one html 
-  -HY:DONE
+·Upload lab 1 in one html -- DONE
   
-·Provide link to original lab 1 in lab_1_links
-  -HY:DONE
+·Provide link to original lab 1 in lab_1_links --DONE
   
 Technician:Huiyu Yang
 

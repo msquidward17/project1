@@ -7,6 +7,7 @@
 		<?php include "inc/nav.php"; ?>
 
 		<header class = "title">
+			<img src="images/back1.jpg" alt="a photo of me">
 			<a href="index.php">
 				<h1>Jaafar Hadab</h1>
 			</a>
@@ -30,6 +31,7 @@
 		<?php include "inc/nav.php"; ?>
 
 		<header class = "title">
+			<img src="images/back2.jpg" alt="another photo of me">
 			<a href="index.php">
 				<h1>Jaafar Hadab</h1>
 			</a>
@@ -53,6 +55,7 @@
 		<?php include "inc/nav.php"; ?>
 
 		<header class = "title">
+			<img src="images/back3.jpg" alt="another photo of me">
 			<a href="index.php">
 				<h1>Jaafar Hadab</h1>
 			</a>
@@ -76,6 +79,7 @@
 		<?php include "inc/nav.php"; ?>
 
 		<header class = "title">
+			<img src="images/back4.jpg" alt="another photo of me">
 			<a href="index.php">
 				<h1>Jaafar Hadab</h1>
 			</a>

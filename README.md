@@ -22,7 +22,7 @@ Technician:Huiyu Yang
 
 IA: Molly Kilian
 
-·Organize the content into the webpage “stubs” created by the Technician
+·Organize the content into the webpage “stubs” created by the Technician --DONE
 
 ·Ensure that the document structure (article, aside, whatever) is consistent on each student-page; and ensure that the document outline (h1, h2, et cetera) is somewhat consistent on each student-page
 

@@ -1,12 +1,9 @@
-<!doctype html>
-<html>
-  <head>
-    <meta charset="utf-8">
-    <title></title>
-  </head>
+<?php include "inc/html-top.php"; ?>
 
-<body>
-  <div class="header">
+  <body>
+    <?php include "inc/nav.php"; ?>
+	<div class="container">
+	  <div class="header">
     <img src="images/hy_photo.jpg" alt="a photo of me" class="borderpic homepic">
     <h1 class="homeh1">Bonnie Yang</h1>
   </div> <!--header -->
@@ -46,6 +43,7 @@
   </div>
 
   <footer>CSC 174: Advanced Front-end Web Design and Development</footer>
-</body>
+  <?php include "inc/scripts.php"; ?>
+  </body>
 
 </html>

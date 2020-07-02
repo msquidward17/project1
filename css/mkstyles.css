@@ -1,0 +1,148 @@
+body { 
+	background: rgb(73,73,73);
+	background: linear-gradient(0deg, rgba(73,73,73,1) 0%, rgba(148,148,148,1) 25%, rgba(255,154,185,1) 75%, rgba(255,105,166,1) 100%);
+	font-family: 'Merriweather', serif;
+	line-height : 2.2em;
+}
+
+.container {
+	margin: 0 auto;
+	max-width: 1000px;
+	width: 95%;
+}
+
+::selection {
+	background: whitesmoke;
+}
+
+h1 {
+	color: pink;
+	font-family: 'Niconne', cursive;
+	font-size: 45px;
+	text-shadow: 1px 2px 2px indigo;	
+}
+
+header a { 
+	display: block;
+	position: relative; 
+}
+
+header h1 {
+    margin: 0;
+    transform: rotate(90deg);
+    font-size: 1.66em;
+    position: absolute;
+    top: 115px;
+    right: -50px;
+}
+
+header img {
+    position: relative;
+}
+
+h2{
+		font-size: 25px;
+		font-family: 'Niconne', cursive;
+}
+
+h3 {
+	font-family: 'Niconne', cursive;
+	font-size: 25px;
+	font-weight : bold;
+	margin-bottom : 10px;
+	color: pink;
+	padding: 10px 10px 0px 50px;
+	text-shadow: 1px 2px 2px black;
+}
+
+h4 {
+	font-size: 15px;
+	color: violet;
+	text-shadow: 1px 2px 2px black;
+}
+
+p {
+	margin: 20px 10px 20px 10px;
+}
+
+header figure {
+	text-align: center;
+	border: 1px outset pink;
+	border-radius: 5%;
+	padding: 10px 0px 10px 0px;
+}
+
+article {
+	margin-top: 50px;
+}
+
+
+a {
+	color : purple;
+	text-decoration : none;
+}
+
+a:hover {
+	color : gray;
+}
+
+#aamilne, #play, #tolstoy, #lived{
+	color: palevioletred;
+	font-family: 'Niconne', cursive;
+	font-size: 40px;
+	margin-top: 90px;
+	text-shadow: 1px 2px 2px black;
+	font-weight: bold;
+}
+
+span{
+	font-size: 25px;
+	color: mediumvioletred;
+}
+
+.grida {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-gap: 25px;
+}
+
+.gridi {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 10px;
+}
+
+/*index*/
+
+
+.intros{
+	display: grid;
+	grid-template-columns: 1fr 1fr;
+	grid-gap: 25px;
+}
+
+.homepage{
+	align-items: center;
+	justify-content: center;
+}
+
+.homepage li{
+	list-style-type: none;
+	border: 1px solid pink;
+	padding: 5px;
+	max-width: 400px;
+}
+.homepage p{
+	margin: 0px 5px 0px 5px;
+	background-color: white;
+}
+
+.homepage h2{
+	color: pink;
+}
+
+.homepage ul{
+	display: grid;
+	grid-template-columns: 1fr 1fr;
+	grid-gap: 25px;
+}

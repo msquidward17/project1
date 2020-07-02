@@ -1,15 +1,11 @@
 <?php include "inc/html-top.php"; ?>
 <body>
+	<?php include "inc/nav.php"; ?>
 	<div class="container">
 	<header>
-		<a href="index.php">
-		<h1>Molly Kilian</h1>
 		<figure><img src="images/headshot.png" alt="Molly Kilian"></figure>
-		<div class="div">Student at the University of Rochester</div>
-		</a>
 	</header>
 	
-	<?php include "inc/nav.php"; ?>
 
 	<article>
 		<p>Molly Kilian is an active student at the University of Rochester. She pushes herself academically and creatively, and believes in treating others with kindness.</p>
@@ -17,9 +13,10 @@
 	</article>
 	
 	<section>
+	<h2>Academics</h2>
 	<p>Molly Kilian is a rising sophomore at the University of Rochester, interested in a wide variety of subjects. She is planning to major in some form of humanities or social science, and to minor in Computer Science and/or Digital Media Studies.</p>
 		<p>She has taken the following classes in her time at U of R:</p>
-		<h2>Fall 2019</h2>
+		<h3>Fall 2019</h3>
 			<ul>
 				<li>GSW 100 - Working Women: Labor Activism</li>
 				<li>MTH 171 - Honors Calculus 1</li>
@@ -27,7 +24,7 @@
 				<li>CSC 161 - Introduction to Programming</li>
 				<li>HIS 223 - European Nationalisms</li>
 			</ul>
-		<h2>Spring 2020</h2>
+		<h3>Spring 2020</h3>
 			<ul>
 				<li>HIS 252W - Immigration and the Americas</li>
 				<li>MTH 172 - Honors Calculus 2</li>
@@ -36,7 +33,7 @@
 				<li>CSC 171 - Introduction to Computer Science</li>
 				<li>EHU 284 - Civil Disobedience</li>
 				</ul>
-		<h2>Summer 2020</h2>
+		<h3>Summer 2020</h3>
 			<ul>
 				<li>MTH 165 - Linear Algebra with Differential Equations</li>
 				<li>DMS 101 - Introduction to Digital Media Studies</li>
@@ -45,6 +42,7 @@
 	</section>
 	
 	<section>
+	<h2>Activities</h2>
 	<div class="grida">
 	<div>
 	<article>
@@ -57,7 +55,7 @@
 	
 	<div>
 	<aside>
-	<h2>Other activities:</h2>
+	<h3>Other activities:</h3>
 		<ul>
 			<li>Drawing and painting classes</li>
 			<li>Interning at Fiveable (currently a Founding Member)</li>
@@ -76,11 +74,12 @@
 	</section>
 	
 	<section class="interests">
+		<h2>Interests</h2>
 		<p>Molly has a wide variety of interests, including figure skating, baking, film, reading, music, thrifting, and art.</p>
-		<h2>Favorite things:</h2>
+		<h3>Favorite things:</h3>
 		<div class="gridi">
 		<div>
-		<h3>Movies</h3>
+		<h4>Movies</h4>
 			<ul>
 				<li>Dead Poets Society</li>
 				<li>The Spongebob Squarepants Movie</li>
@@ -88,7 +87,7 @@
 			</ul>
 		</div>
 		<div>
-		<h3>Books</h3>
+		<h4>Books</h4>
 			<ul>
 				<li>The Astonishing Color of After</li>
 				<li>Ashes in the Snow</li>
@@ -96,7 +95,7 @@
 			</ul>
 		</div>
 		<div>
-		<h3>Musicals</h3>
+		<h4>Musicals</h4>
 			<ul>
 				<li>Hamilton</li>
 				<li>Dear Evan Hansen</li>
@@ -104,7 +103,7 @@
 			</ul>
 		</div>
 		<div>
-		<h3>Musicians</h3>
+		<h4>Musicians</h4>
 			<ul>
 				<li>Ben Platt</li>
 				<li>Vince Guaraldi</li>
@@ -112,7 +111,7 @@
 			</ul>
 		</div>
 		<div>
-		<h3>TV Shows</h3>
+		<h4>TV Shows</h4>
 			<ul>
 				<li>Andi Mack</li>
 				<li>Spongebob Squarepants</li>
@@ -120,7 +119,7 @@
 			</ul>
 		</div>
 		<div>
-		<h3>Figure Skaters</h3>
+		<h4>Figure Skaters</h4>
 			<ul>
 				<li>Evgenia Medvedeva</li>
 				<li>Alena Kostornaia</li>
@@ -128,7 +127,7 @@
 			</ul>
 		</div>
 		<div>
-		<h3>Animals</h3>
+		<h4>Animals</h4>
 			<ul>
 				<li>Rabbits</li>
 				<li>Cats</li>
@@ -136,7 +135,7 @@
 			</ul>
 		</div>
 		<div>
-		<h3>Seasons</h3>
+		<h4>Seasons</h4>
 			<ol>
 				<li>Winter</li>
 				<li>Fall</li>
@@ -144,7 +143,7 @@
 			</ol>
 		</div>
 		<div>
-		<h3>Colors</h3>
+		<h4>Colors</h4>
 			<ul>	
 				<li>Yellow</li>
 				<li>Purple</li>

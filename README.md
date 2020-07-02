@@ -24,13 +24,13 @@ IA: Molly Kilian
 
 ·Organize the content into the webpage “stubs” created by the Technician --DONE
 
-·Ensure that the document structure (article, aside, whatever) is consistent on each student-page; and ensure that the document outline (h1, h2, et cetera) is somewhat consistent on each student-page
+·Ensure that the document structure (article, aside, whatever) is consistent on each student-page; and ensure that the document outline (h1, h2, et cetera) is somewhat consistent on each student-page --DONE
 
-·Create some content for the new home page
+·Create some content for the new home page --DONE
 
-·Code the navigation and make sure it works so you can go from page to page easily (you don’t have to install it in PHP Includes if the Technician didn’t already set it up for you)
+·Code the navigation and make sure it works so you can go from page to page easily (you don’t have to install it in PHP Includes if the Technician didn’t already set it up for you) --DONE
 
-·There needs to be links back to the original Lab 1 websites in some appropriate place(s)
+·There needs to be links back to the original Lab 1 websites in some appropriate place(s) --DONE
 
 
 Visual Designer:

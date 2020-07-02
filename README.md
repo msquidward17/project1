@@ -9,7 +9,8 @@ General:
 ·Provide link to original lab 1 in lab_1_links
   -HY:DONE
   
-Technician:
+Technician:Huiyu Yang
+
 ·Setup the repo and make sure everyone can sync it to their desktop (using GitHub desktop software) --DONE
 
 ·Create four “stubs” - four empty HTML webpages with the proper HTML5 structure and no content. --DONE
@@ -21,7 +22,7 @@ Technician:
 ·Install the website on the class web server, and submit the lab
 
 
-IA: 
+IA: Molly Kilian
 
 ·Organize the content into the webpage “stubs” created by the Technician
 

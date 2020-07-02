@@ -4,6 +4,7 @@
 	<div class="container">
 	<header>
 		<figure><img src="images/headshot.png" alt="Molly Kilian"></figure>
+		<h1>Molly Kilian</h1>
 	</header>
 	
 

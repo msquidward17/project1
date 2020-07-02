@@ -22,24 +22,6 @@ h1 {
 	text-shadow: 1px 2px 2px indigo;	
 }
 
-header a { 
-	display: block;
-	position: relative; 
-}
-
-header h1 {
-    margin: 0;
-    transform: rotate(90deg);
-    font-size: 1.66em;
-    position: absolute;
-    top: 115px;
-    right: -50px;
-}
-
-header img {
-    position: relative;
-}
-
 h2{
 		font-size: 25px;
 		font-family: 'Niconne', cursive;
@@ -65,7 +47,7 @@ p {
 	margin: 20px 10px 20px 10px;
 }
 
-header figure {
+figure {
 	text-align: center;
 	border: 1px outset pink;
 	border-radius: 5%;

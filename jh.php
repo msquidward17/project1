@@ -2,8 +2,8 @@
 
 <body>
 <?php include "inc/nav.php"; ?>
-<div class="container">
-		
+	<div class="blacktop">
+		<div class = "blackcontent">	
 		<header>
 			<figure><img src="images/back1.jpg" alt="Jaafar Hadab"></figure>
 			<h1>Jaafar Hadab</h1>
@@ -13,7 +13,9 @@
 			<p>Jaafar Hadab is a rising senior at the University of Rochester.</p>
 			<p>Jaafar is a Mechanical Engineering Student at the University of Rochester. He is experienced in CAD modeling, Finite Element Analysis (FEA), and Manufacturing. He is also minoring in Computer Science and Psychology, from which he received experience in fundemental coding in Java and Python.</p>
 		</article>
-		
+		</div>
+	</div>
+<div class="container">
 		<section>
 			<p>Hear from Jaafar:</p>
 			<h2>Research</h2>

@@ -1,7 +1,9 @@
 <?php include "inc/html-top.php"; ?>
 <body>
-	<?php include "inc/nav.php"; ?>
-	<div class="container">
+<?php include "inc/nav.php"; ?>
+
+<div class="blacktop">
+	<div class = "blackcontent">
 	<header>
 		<figure><img src="images/headshot.png" alt="Molly Kilian"></figure>
 		<h1>Molly Kilian</h1>
@@ -12,7 +14,9 @@
 		<p>Molly Kilian is an active student at the University of Rochester. She pushes herself academically and creatively, and believes in treating others with kindness.</p>
 		<p>She is from Utica, NY, and has one older brother and two cats. Her mother is an art teacher and her father is a newspaper editor.</p>
 	</article>
-	
+	</div>
+</div>
+<div class="container">	
 	<section>
 	<h2>Academics</h2>
 	<p>Molly Kilian is a rising sophomore at the University of Rochester, interested in a wide variety of subjects. She is planning to major in some form of humanities or social science, and to minor in Computer Science and/or Digital Media Studies.</p>

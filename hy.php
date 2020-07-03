@@ -2,8 +2,9 @@
 
 <body>
 <?php include "inc/nav.php"; ?>
-<div class="container">
 
+<div class="blacktop">
+	<div class = "blackcontent">
 	<header>
 		<figure><img src="images/hy_photo.jpg" alt="Bonnie Yang"></figure>
 		<h1>Bonnie Yang</h1>
@@ -13,7 +14,9 @@
 		<p>Bonnie Yang is a senior at the University of Rochester studying Neurobiology & Clinical Psychology<br>She is VP of <a href="https://ccc.rochester.edu/fencing/home/">URFC</a></p>
 		<p>Bonnie is a rising senior majoring in Brain and Cognitive Sciences at the University of Rochester, minoring in Clinical Psychology and taking a cluster in German. Until two months ago, she was also planning to minor in Computer Science, but that is no longer possible for scheduling reasons. She has been a member of U of R's Fencing club since freshman year, and took over the job of vice president last winter. Before she came to Rochester, she went to high school in Shanghai, China, where she was born and raised. </p>
 	</article>
-
+	</div>
+</div>
+<div class="container">
 	<section>
 		<p>Hear from Bonnie:</p>
 		<h2>Fencing</h2>

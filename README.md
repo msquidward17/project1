@@ -13,7 +13,7 @@ Technician:Huiyu Yang
 
 ·Create four “stubs” - four empty HTML webpages with the proper HTML5 structure and no content. --DONE
 
-·Make sure the entire website works correctly, and make sure all validation passed (within reason)
+·Make sure the entire website works correctly, and make sure all validation passed (within reason) --DONE
 
 ·Also make sure the website is optimized and all file and folder names are correct --DONE
 

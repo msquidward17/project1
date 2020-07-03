@@ -17,7 +17,7 @@ Technician:Huiyu Yang
 
 ·Also make sure the website is optimized and all file and folder names are correct --DONE
 
-·Install the website on the class web server, and submit the lab
+·Install the website on the class web server, and submit the lab --WILL BE DONE BY THE TIME THIS FILE IS ON SERVER
 
 
 IA: Molly Kilian

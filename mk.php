@@ -8,15 +8,15 @@
 		<figure><img src="images/headshot.png" alt="Molly Kilian"></figure>
 		<h1>Molly Kilian</h1>
 	</header>
-	
 
-	<article>
+
+	<div class="article">
 		<p>Molly Kilian is an active student at the University of Rochester. She pushes herself academically and creatively, and believes in treating others with kindness.</p>
 		<p>She is from Utica, NY, and has one older brother and two cats. Her mother is an art teacher and her father is a newspaper editor.</p>
-	</article>
+	</div>
 	</div>
 </div>
-<div class="container">	
+<div class="container">
 	<section>
 	<h2>Academics</h2>
 	<p>Molly Kilian is a rising sophomore at the University of Rochester, interested in a wide variety of subjects. She is planning to major in some form of humanities or social science, and to minor in Computer Science and/or Digital Media Studies.</p>
@@ -45,19 +45,19 @@
 				<li>CSC 174 - Advanced Front End Web Development</li>
 			</ul>
 	</section>
-	
+
 	<section>
 	<h2>Activities</h2>
 	<div class="grida">
 	<div>
-	<article>
+	<div class="article">
 	<p>At the University of Rochester, Molly is an active member of Creative Arts Club, Vice President of Cinema Group, and plays the carillon.<p>
 	<p>Off campus, Molly is a collegiate member of Clinton Figure Skating Club and an associate member of Genesee Figure Skating Club. She is working on her juvenile moves in the field and her preliminary freeskate. Her favorite figure skater is Evgenia Medvedeva.</p>
 	<p>Molly is an active volunteer at her church, and a volunteer at a local animal shelter (Spring Farms Cares).</p>
 	<p>She enjoys spending her time in book clubs, learning new things, making art, playing music, and baking.</p>
-	</article>
+  </div>
 	</div>
-	
+
 	<div>
 	<aside>
 	<h3>Other activities:</h3>
@@ -75,9 +75,9 @@
 	</aside>
 	</div>
 	</div>
-	
+
 	</section>
-	
+
 	<section class="interests">
 		<h2>Interests</h2>
 		<p>Molly has a wide variety of interests, including figure skating, baking, film, reading, music, thrifting, and art.</p>
@@ -149,30 +149,30 @@
 		</div>
 		<div>
 		<h4>Colors</h4>
-			<ul>	
+			<ul>
 				<li>Yellow</li>
 				<li>Purple</li>
 				<li>Peach</li>
 			</ul>
 		</div>
-		
+
 		</div>
 	</section>
-	
+
 	<aside>
 		<p id="aamilne">"You're braver than you believe, stronger than you seem, and smarter than you think."<span> ~ Milne</span></p>
 		<p id="play">"The powerful play goes on, and you may contribute a verse."<span> ~ Whitman</span></p>
 		<p id="tolstoy">"There is something in the human spirit that will survive and prevail, there is a tiny and brilliant light burning in the heart of man that will not go out no matter how dark the world becomes."<span> ~ Tolstoy</span></p>
 		<p id="lived">"...and not, when I had come to die, discover that I had not lived."<span> ~ Thoreau</span></p>
 	</aside>
-	
+
 	<footer>
 			<p>
 			CSC 174: Advanced Front-end Web Design and Development -
 			<a href="http://csc174.org/lab01/mkilian/lab01/" target=_blank>Original Lab 01</a>
 			</p>
 	</footer>
-	
+
 </div>
 <?php include "inc/scripts.php"; ?>
 </body>

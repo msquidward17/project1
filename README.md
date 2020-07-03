@@ -15,7 +15,7 @@ Technician:Huiyu Yang
 
 ·Make sure the entire website works correctly, and make sure all validation passed (within reason)
 
-·Also make sure the website is optimized and all file and folder names are correct
+·Also make sure the website is optimized and all file and folder names are correct --DONE
 
 ·Install the website on the class web server, and submit the lab
 
@@ -35,4 +35,4 @@ IA: Molly Kilian
 
 Visual Designer:
 
-·The entire website must have a single set of styles that make the website look unified and cohesive, like any normal website
+·The entire website must have a single set of styles that make the website look unified and cohesive, like any normal website --DONE

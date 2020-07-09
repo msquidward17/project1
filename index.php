@@ -5,10 +5,10 @@
 <article class="homepage">
 	<p>Welcome to our page! Who are we?</p>
 	<ul class="home">
-		<li class="hy">
-			<h2>Huiyu Yang</h2>
-			<figure class="intrf"><img src="images/hy_photo.jpg" alt="Huiyu Yang"><figcaption>Huiyu Yang</figcaption></figure>
-			<p class="intrp">Huiyu Yang is a rising senior at the University of Rochester majoring in Brain and Cognitive Sciences, minoring in Clinical Psychology and taking a cluster in German.</p><a href="hy.php" class="rdmore">Read more</a>
+		<li class="mb">
+			<h2>Michael Bashner</h2>
+			<figure class="intrf"><img src="images/" alt="Michael Bashner"><figcaption>Michael Bashner</figcaption></figure>
+			<p class="intrp">Introduction</p><a href="mb.php" class="rdmore">Read more</a>
 		</li>
 
 		<li class="mk">
@@ -17,10 +17,10 @@
 			<p class="intrp">Molly Kilian is a rising sophomore at the University of Rochester, interested in a wide variety of subjects. She is planning to major in some form of humanities or social science, and to minor in Computer Science and/or Digital Media Studies.</p><a href="mk.php" class="rdmore">Read more</a>
 		</li>
 
-		<li class="jh">
-			<h2>Jaafar Hadab</h2>
-			<figure class="intrf"><img src="images/back1.jpg" alt="name"><figcaption>Jaafar Hadab</figcaption></figure>
-			<p class="intrp">Jaafar Hadab is a rising sernior at the University of Rochester. He is a Mechanical Engineering student.</p><a href="jh.php" class="rdmore">Read more</a>
+		<li class="jp">
+			<h2>Joo Eon Park</h2>
+			<figure class="intrf"><img src="images/" alt="Joo Eon Park"><figcaption>Joo Eon Park</figcaption></figure>
+			<p class="intrp">Introduction</p><a href="jp.php" class="rdmore">Read more</a>
 		</li>
 
 	</ul>

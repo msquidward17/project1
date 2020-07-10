@@ -13,6 +13,8 @@
 	<div class="article">
 		<p>Molly Kilian is an active student at the University of Rochester. She pushes herself academically and creatively, and believes in treating others with kindness.</p>
 		<p>She is from Utica, NY, and has one older brother and two cats. Her mother is an art teacher and her father is a newspaper editor.</p>
+		<figure><img src="images/mkilian.jpg"><figcaption>Molly Kilian</figcaption></figure>
+		<figure><img src="images/mkskate.jpg"><figcaption>Molly Kilian at her senior year ice show</figcaption></figure>
 	</div>
 	</div>
 </div>
@@ -72,6 +74,7 @@
 			<li>Attending musicals</li>
 			<li>Watching Disney+</li>
 		</ul>
+		<figure><img src="images/skating.jpg" alt="Figure Skating"><figcaption>Molly at the 2019 ESWG</figcaption></figure>
 	</aside>
 	</div>
 	</div>

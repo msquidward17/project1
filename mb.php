@@ -57,13 +57,27 @@
 				</figure>
 	</section>
 
-	<section>
-		<h2>Activities</h2>
-			<h3>On campus</h3>
-			<p>The clubs Michael is a part of are Off Broadway on Campus (OBOC) and No Jackets Required (NJR).</p>
-			<p>He is the Open Mic and Jam Night Coordinator on the executive board of NJR.</p>
-		
-	</section>
+		<section>
+			<h2>Activities</h2>
+			<div class="grida">
+				<div>
+					<div class="article">
+					<h3>On campus</h3>
+						<p>At the University of Rochester, Michael is an active member of _________<p>
+						<p>When not in class, he can be found _________</p>
+					</div>
+				</div>
+
+				<div>
+				<aside>
+				<h3>Other activities:</h3>
+					<ul>
+						<li>list</li>
+					</ul>
+				</aside>
+				</div>
+			</div>
+		</section>
 	
 	<section>
 		<h2>Fun facts</h2>
@@ -71,7 +85,72 @@
 			 <p>Michael has basic writing skills since he took a short story class in high school, and completed the required undergraduate first year writing course (WRT105) at the University. He has great programming skills due to his background in Computer Science.</p>
 			<h3>Pets</h3>
 			<p>Michael has _____ dogs and __others?____. About them:________-insert some stuff, maybe a picture would be cute-____</p>
+			<figure><img src="images/" alt=""><figcaption>caption</figcaption></figure>
 			<h3>Favorite things</h3>
+			<div class="gridi">
+				<div>
+					<h4>item</h4>
+						<ul>
+							<li>list</li>
+						</ul>
+				</div>
+				
+				<div>
+					<h4>item</h4>
+						<ul>
+							<li>list</li>
+						</ul>
+				</div>
+				
+				<div>
+					<h4>item</h4>
+						<ul>
+							<li>list</li>
+						</ul>
+				</div>
+				
+				<div>
+					<h4>item</h4>
+						<ul>
+							<li>list</li>
+						</ul>
+				</div>
+				
+				<div>
+					<h4>item</h4>
+						<ul>
+							<li>list</li>
+						</ul>
+				</div>
+				
+				<div>
+					<h4>item</h4>
+						<ul>
+							<li>list</li>
+						</ul>
+				</div>
+				
+				<div>
+					<h4>item</h4>
+						<ul>
+							<li>list</li>
+						</ul>
+				</div>
+				
+				<div>
+					<h4>item</h4>
+						<ul>
+							<li>list</li>
+						</ul>
+				</div>
+				
+				<div>
+					<h4>item</h4>
+						<ul>
+							<li>list</li>
+						</ul>
+				</div>	
+			</div>
 			
 	</section>
 	

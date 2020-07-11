@@ -1,7 +1,4 @@
 <?php include "inc/html-top.php"; ?>
-
-<body>
-<?php include "inc/nav.php"; ?>
 	<div class="blacktop">
 		<div class = "blackcontent">
 		<header>

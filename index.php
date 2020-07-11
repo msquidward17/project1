@@ -17,8 +17,8 @@
 
 		<li class="jp">
 			<h2>Joo Eon Park</h2>
-			<figure class="intrf"><img src="images/" alt="Joo Eon Park"><figcaption>Joo Eon Park</figcaption></figure>
-			<p class="intrp">Introduction</p><a href="jp.php" class="rdmore">Read more</a>
+			<figure class="intrf"><img src="images/jp_self.jpg" alt="Joo Eon Park"><figcaption>Joo Eon Park</figcaption></figure>
+			<p class="intrp">Joo Eon Park is a ____ at the University of Rochester, studying _______.</p><a href="jp.php" class="rdmore">Read more</a>
 		</li>
 
 	</ul>

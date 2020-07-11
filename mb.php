@@ -5,34 +5,146 @@
 				<figure><img src="images/mb.jpg" alt="Michael Bashner"></figure>
 				<h2>Michael Bashner</h2>
 			<!-- <div class="article"> -->
-				<p>Hi, my name is Michael (he/him). I am a computer science major, a linguistics minor, and I have a cluster in gender, sexuality, and women's studies. The clubs I am a part of are Off Broadway on Campus (OBOC) and No Jackets Required (NJR). I am the Open Mic and Jam Night Coordinator on the executive board of  NJR. I have some basic experience with writing since I took a short story class in high school, and completed the required undergraduate first year writing course (WRT105). I have a good amount of programming skills. Prior CSC courses: 170, 171, 172, 173, 242, 247, 250.</p>
-			</div>
+          <p>Michael Bashner (he/him) is a rising ____ at the University of Rochester. He is a computer science major, a linguistics minor, has a cluster in gender, sexuality, and women's studies.</p>
+          <p>He is from ______ and ____-insert fun fact about family or pets here-____</p>
+        </div>
 			</header>
 		<div class="container">
-			<section>
-				<h2>Music Journey</h2>
-				<p>I started playing ukulele in 10th grade and then moved to guitar in 11th grade. I have been singing since I was a little kid. Both of these pictures are from No Jacket's Required (NJR) Shows.</p>
+      <section>
+		<h3>Academics</h3>
+		  <p>Michael is a student at the University of Rochester, majoring in Computer Science, minoring in Linguistics, and clustering in Gender, Sexuality, and Women's Studies.</p>
+		  <p>Here is a list of some of the courses he has taken in the computer science field in his time at U of R:</p>
+		<ul>
+			<li>CSC 170</li>
+			<li>CSC 171</li>
+			<li>CSC 172</li>
+			<li>CSC 173</li>
+			<li>CSC 242</li>
+			<li>CSC 247</li>
+			<li>CSC 250</li>
+		</ul>
+	</section>
+      <section>
+		<h3>Interests</h3>
+			<h4>The Arts</h4>
+				<h5>Theater</h5>
+				<p>Michael is an active theater lover. On campus, he gets his theater fix by participating in Off Broadway on Campus (OBOC) The pictures below are from shows that he did in high school.</p>
+					<figure>
+						<img src="images/constable.jpg" alt="Constable Locke in the Music Man">
+						<figcaption>As Constable Locke in the Music Man</figcaption>
+					</figure>
+					<figure>
+						<img src="images/old-man.jpg" alt="The Old Man in the Tell Tale Heart">
+						<figcaption>As the Old Man in the Tell Tale Heart</figcaption>
+					</figure>
+			<h5>Music</h5>
+				<p>Michael has loved music since he was a little kid. He has been singing since he was young, started playing the ukulele in 10th grade and then moved to playing the guitar in 11th grade. The pictures below are from his participation in No Jacket's Required (NJR) Shows.</p>
 					<figure>
 						<img src="images/guitar.jpg" alt="Playing acoustic guitar on Free Bird">
-						<figcaption>Playing acoustic guitar on Free Bird</figcaption>
+					<figcaption>Playing acoustic guitar on Free Bird</figcaption>
 					</figure>
 					<figure>
 						<img src="images/vocals.jpg" alt="Singing I Hate Myself for Loving You">
-							<figcaption>Singing I Hate Myself for Loving You</figcaption>
-					</figure>
-			</section>
-			<section>
-				<h2>Theater</h2>
-				<p>Both these pictures are from shows that I did in high school. Now I am a member of Off Broadway On Campus (OBOC) and that is how I get my theater fix.</p>
-							<figure>
-								<img src="images/constable.jpg" alt="Constable Locke in the Music Man">
-								<figcaption>As Constable Locke in the Music Man</figcaption>
-							</figure>
-							<figure>
-								<img src="images/old-man.jpg" alt="The Old Man in the Tell Tale Heart">
-								<figcaption>As the Old Man in the Tell Tale Heart</figcaption>
-							</figure>
-			</section>
+					<figcaption>Singing I Hate Myself for Loving You</figcaption>
+				</figure>
+	</section>
+      <section>
+			<h3>Activities</h3>
+			<div class="grida">
+				<div>
+					<div class="article">
+					<h4>On campus</h4>
+						<p>At the University of Rochester, Michael is an active member of _________<p>
+						<p>When not in class, he can be found _________</p>
+					</div>
+				</div>
+
+				<div>
+				<aside>
+				<h3>Other activities:</h3>
+					<ul>
+						<li>list</li>
+					</ul>
+				</aside>
+				</div>
+			</div>
+		</section>
+      <section>
+		<h2>Fun facts</h2>
+			<h3>Skills</h3>
+			 <p>Michael has basic writing skills since he took a short story class in high school, and completed the required undergraduate first year writing course (WRT105) at the University. He has great programming skills due to his background in Computer Science.</p>
+			<h3>Pets</h3>
+			<p>Michael has _____ dogs and __others?____. About them:________-insert some stuff, maybe a picture would be cute-____</p>
+			<figure><img src="images/" alt=""><figcaption>caption</figcaption></figure>
+			<h3>Favorite things</h3>
+			<div class="gridi">
+				<div>
+					<h4>item</h4>
+						<ul>
+							<li>list</li>
+						</ul>
+				</div>
+				
+				<div>
+					<h4>item</h4>
+						<ul>
+							<li>list</li>
+						</ul>
+				</div>
+				
+				<div>
+					<h4>item</h4>
+						<ul>
+							<li>list</li>
+						</ul>
+				</div>
+				
+				<div>
+					<h4>item</h4>
+						<ul>
+							<li>list</li>
+						</ul>
+				</div>
+				
+				<div>
+					<h4>item</h4>
+						<ul>
+							<li>list</li>
+						</ul>
+				</div>
+				
+				<div>
+					<h4>item</h4>
+						<ul>
+							<li>list</li>
+						</ul>
+				</div>
+				
+				<div>
+					<h4>item</h4>
+						<ul>
+							<li>list</li>
+						</ul>
+				</div>
+				
+				<div>
+					<h4>item</h4>
+						<ul>
+							<li>list</li>
+						</ul>
+				</div>
+				
+				<div>
+					<h4>item</h4>
+						<ul>
+							<li>list</li>
+						</ul>
+				</div>	
+			</div>
+			
+	</section>
+	
+      
 		</main>
 
 			<aside>
@@ -44,8 +156,7 @@
 				<a href="http://csc174.org/lab01/mbashner/" target=_blank>Original Lab 01</a>
 				</p>
 			</footer>
-
-		</div>
+      </div>
 		<?php include "inc/scripts.php"; ?>
 	</body>
 </html>

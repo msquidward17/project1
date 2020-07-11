@@ -15,9 +15,9 @@ body {
 	width: 95%;
 }
 
-.article {
+/* .article {
 	margin-top: 50px;
-}
+} */
 
 ::selection {
 	background: whitesmoke;
@@ -66,8 +66,8 @@ p {
 
 figure {
 	text-align: center;
-	padding: 100px 0px 100px 0px;
-	margin-top: 0;
+	/* padding: 100px 0px 100px 0px; */
+	/* margin-top: 0; */
 }
 
 img{

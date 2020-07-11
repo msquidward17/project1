@@ -55,8 +55,8 @@
 					<figure><img src="images/mkskate.jpg" alt="Figure Skating show"><figcaption>Molly at her senior year ice show</figcaption></figure>
 			<h3>Music</h3>
 				<p>Molly has played the piano and viola since 4th grade. She is also learning to play the carillon and the violin. She loves listening to classical music and soundtracks from movies and films. In her spare time, she likes to arrange music for the University of Rochester carillon.</p>
-				<figure><img src="images/" alt=""><figcaption>caption</figcaption></figure>
-				<figure><img src="images/" alt=""><figcaption>caption</figcaption></figure>
+				<figure><img src="images/mkilian.jpg" alt="Molly and bell"><figcaption>Molly and a bell</figcaption></figure>
+				<figure><img src="images/mkcarillon.jpg" alt="Molly playing carillon"><figcaption>Molly playing carillon at the Christmas concert, 2019</figcaption></figure>
 	</section>
 	
 	<section>
@@ -96,7 +96,7 @@
 			<h3>Pets</h3>
 				<p>Molly has two cats, named Mango and Rosamond.</p>
 				<p>Mango is a fluffy orange cat, whose name Molly did not choose but fits perfectly. He is outgoing and affectionate. He is 6 years old. Rosamond is a calico cat, who enjoys taking naps and looking out the windows at birds. She is 16 years old.</p>
-				<figure><img src="images/" alt=""><figcaption>caption</figcaption></figure>
+				<figure><img src="images/mkcats.jpg" alt="Cats"><figcaption>Mango and Rosamond</figcaption></figure>
 			<h3>Favorite things:</h3>
 			<div class="gridi">
 				<div>
@@ -110,7 +110,7 @@
 				<div>
 					<h4>Books</h4>
 						<ul>
-							<li>The Astonishing Color of After</li>
+							<li>Anna Karenina</li>
 							<li>Ashes in the Snow</li>
 							<li>What the Night Sings</li>
 						</ul>

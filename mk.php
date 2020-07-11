@@ -3,7 +3,9 @@
 		<article>
 			<header class="blacktop">
 				<div class="blackcontent">
-					<figure><img src="images/headshot.png" alt="Molly Kilian"></figure>
+					<figure>
+						<img src="images/headshot.png" alt="Molly Kilian">
+					</figure>
 					<h2>Molly Kilian</h2>
 					<p>Molly Kilian (she/her) is an active student at the University of Rochester. She pushes herself academically and creatively, and believes in treating others with kindness.</p>
 					<p>She is from Utica, NY, and has one older brother and two cats. Her mother is an art teacher and her father is a newspaper editor.</p>
@@ -64,12 +66,12 @@
 						<h5>Music</h5>
 						<p>Molly has played the piano and viola since 4th grade. She is also learning to play the carillon and the violin. She loves listening to classical music and soundtracks from movies and films. In her spare time, she likes to arrange music for the University of Rochester carillon.</p>
 						<figure>
-							<img src="images/" alt="">
-							<figcaption>caption</figcaption>
+							<img src="images/mkilian.jpg" alt="Molly and bell">
+							<figcaption>Molly and a bell</figcaption>
 						</figure>
 						<figure>
-							<img src="images/" alt="">
-							<figcaption>caption</figcaption>
+							<img src="images/mkcarillon.jpg" alt="Molly playing carillon">
+							<figcaption>Molly playing carillon at the Christmas concert, 2019</figcaption>
 						</figure>
 					</section>
 				</section>
@@ -110,8 +112,8 @@
 						<p>Molly has two cats, named Mango and Rosamond.</p>
 						<p>Mango is a fluffy orange cat, whose name Molly did not choose but fits perfectly. He is outgoing and affectionate. He is 6 years old. Rosamond is a calico cat, who enjoys taking naps and looking out the windows at birds. She is 16 years old.</p>
 					<figure>
-						<img src="images/" alt="">
-						<figcaption>caption</figcaption>
+						<img src="images/mkcats.jpg" alt="Cats">
+						<figcaption>Mango and Rosamond</figcaption>
 					</figure>
 				<h4>Favorite things:</h4>
 				<div class="gridi">
@@ -126,7 +128,7 @@
 					<div>
 						<h5>Books</h5>
 							<ul>
-								<li>The Astonishing Color of After</li>
+								<li>Anna Karenina</li>
 								<li>Ashes in the Snow</li>
 								<li>What the Night Sings</li>
 							</ul>

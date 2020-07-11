@@ -11,7 +11,7 @@
 
 
 	<div class="article">
-		<p>Molly Kilian is an active student at the University of Rochester. She pushes herself academically and creatively, and believes in treating others with kindness.</p>
+		<p>Molly Kilian (she/her) is an active student at the University of Rochester. She pushes herself academically and creatively, and believes in treating others with kindness.</p>
 		<p>She is from Utica, NY, and has one older brother and two cats. Her mother is an art teacher and her father is a newspaper editor.</p>
 	</div>
 	</div>
@@ -47,116 +47,132 @@
 	</section>
 
 	<section>
+		<h2>Interests</h2>
+			<h3>The Arts</h3>
+				<h4>Figure Skating</h4>
+					<p>Molly is Molly is a collegiate member of Clinton Figure Skating Club and an associate member of Genesee Figure Skating Club. She is working on her juvenile moves in the field and her preliminary freeskate. Her favorite figure skater is Evgenia Medvedeva.</p>
+					<figure><img src="images/skating.jpg" alt="Figure Skating"><figcaption>Molly at the 2019 ESWG</figcaption></figure>
+					<figure><img src="images/mkskate.jpg" alt="Figure Skating show"><figcaption>Molly at her senior year ice show</figcaption></figure>
+			<h3>Music</h3>
+				<p>Molly has played the piano and viola since 4th grade. She is also learning to play the carillon and the violin. She loves listening to classical music and soundtracks from movies and films. In her spare time, she likes to arrange music for the University of Rochester carillon.</p>
+				<figure><img src="images/" alt=""><figcaption>caption</figcaption></figure>
+				<figure><img src="images/" alt=""><figcaption>caption</figcaption></figure>
+	</section>
+	
+	<section>
 	<h2>Activities</h2>
 	<div class="grida">
-	<div>
-	<div class="article">
-	<p>At the University of Rochester, Molly is an active member of Creative Arts Club, Vice President of Cinema Group, and plays the carillon.<p>
-	<p>Off campus, Molly is a collegiate member of Clinton Figure Skating Club and an associate member of Genesee Figure Skating Club. She is working on her juvenile moves in the field and her preliminary freeskate. Her favorite figure skater is Evgenia Medvedeva.</p>
-	<p>Molly is an active volunteer at her church, and a volunteer at a local animal shelter (Spring Farms Cares).</p>
-	<p>She enjoys spending her time in book clubs, learning new things, making art, playing music, and baking.</p>
-  </div>
-	</div>
+		<div>
+			<div class="article">
+				<h3>On campus</h3>
+					<p>At the University of Rochester, Molly is an active member of Creative Arts Club, Vice President of Cinema Group, and plays the carillon.<p>
+					<p>When not in class, she can be found studying, reading, making art, playing music, listening to music, or decorating. She always keeps busy to learn new things at every opportunity.</p>
+			</div>
+		</div>
 
-	<div>
-	<aside>
-	<h3>Other activities:</h3>
-		<ul>
-			<li>Drawing and painting classes</li>
-			<li>Interning at Fiveable (currently a Founding Member)</li>
-			<li>Piano, viola, and violin lessons</li>
-			<li>Photography</li>
-			<li>Mixed media art</li>
-			<li>Roller skating</li>
-			<li>Travelling</li>
-			<li>Attending musicals</li>
-			<li>Watching Disney+</li>
-		</ul>
-	</aside>
+		<div>
+		<aside>
+		<h3>Other activities:</h3>
+			<ul>
+				<li>Drawing and painting classes</li>
+				<li>Interning at Fiveable (currently a Founding Member)</li>
+				<li>Piano, viola, and violin lessons</li>
+				<li>Photography</li>
+				<li>Mixed media art</li>
+				<li>Roller skating</li>
+				<li>Travelling</li>
+				<li>Attending musicals</li>
+				<li>Watching Disney+</li>
+			</ul>
+		</aside>
+		</div>
 	</div>
-	</div>
-
 	</section>
 
 	<section class="interests">
-		<h2>Interests</h2>
-		<p>Molly has a wide variety of interests, including figure skating, baking, film, reading, music, thrifting, and art.</p>
-		<h3>Favorite things:</h3>
-		<div class="gridi">
-		<div>
-		<h4>Movies</h4>
-			<ul>
-				<li>Dead Poets Society</li>
-				<li>The Spongebob Squarepants Movie</li>
-				<li>Christopher Robin</li>
-			</ul>
-		</div>
-		<div>
-		<h4>Books</h4>
-			<ul>
-				<li>The Astonishing Color of After</li>
-				<li>Ashes in the Snow</li>
-				<li>What the Night Sings</li>
-			</ul>
-		</div>
-		<div>
-		<h4>Musicals</h4>
-			<ul>
-				<li>Hamilton</li>
-				<li>Dear Evan Hansen</li>
-				<li>The Spongebob Squarepants Musical</li>
-			</ul>
-		</div>
-		<div>
-		<h4>Musicians</h4>
-			<ul>
-				<li>Ben Platt</li>
-				<li>Vince Guaraldi</li>
-				<li>Chopin</li>
-			</ul>
-		</div>
-		<div>
-		<h4>TV Shows</h4>
-			<ul>
-				<li>Andi Mack</li>
-				<li>Spongebob Squarepants</li>
-				<li>Jeopardy</li>
-			</ul>
-		</div>
-		<div>
-		<h4>Figure Skaters</h4>
-			<ul>
-				<li>Evgenia Medvedeva</li>
-				<li>Alena Kostornaia</li>
-				<li>Gracie Gold</li>
-			</ul>
-		</div>
-		<div>
-		<h4>Animals</h4>
-			<ul>
-				<li>Rabbits</li>
-				<li>Cats</li>
-				<li>Otters</li>
-			</ul>
-		</div>
-		<div>
-		<h4>Seasons</h4>
-			<ol>
-				<li>Winter</li>
-				<li>Fall</li>
-				<li>Spring</li>
-			</ol>
-		</div>
-		<div>
-		<h4>Colors</h4>
-			<ul>
-				<li>Yellow</li>
-				<li>Purple</li>
-				<li>Peach</li>
-			</ul>
-		</div>
+		<h2>Fun facts</h2>
+			<h3>Skills</h3>
+				<p>Molly is a good writer, an active listener, and is excellent at organization. She has a lot of passions, but finds a way to contribute her time to each of them.</p>
+			<h3>Pets</h3>
+				<p>Molly has two cats, named Mango and Rosamond.</p>
+				<p>Mango is a fluffy orange cat, whose name Molly did not choose but fits perfectly. He is outgoing and affectionate. He is 6 years old. Rosamond is a calico cat, who enjoys taking naps and looking out the windows at birds. She is 16 years old.</p>
+				<figure><img src="images/" alt=""><figcaption>caption</figcaption></figure>
+			<h3>Favorite things:</h3>
+			<div class="gridi">
+				<div>
+					<h4>Movies</h4>
+						<ul>
+							<li>Dead Poets Society</li>
+							<li>The Spongebob Squarepants Movie</li>
+							<li>Christopher Robin</li>
+						</ul>
+				</div>
+				<div>
+					<h4>Books</h4>
+						<ul>
+							<li>The Astonishing Color of After</li>
+							<li>Ashes in the Snow</li>
+							<li>What the Night Sings</li>
+						</ul>
+				</div>
+				<div>
+					<h4>Musicals</h4>
+						<ul>
+							<li>Hamilton</li>
+							<li>Dear Evan Hansen</li>
+							<li>The Spongebob Squarepants Musical</li>
+						</ul>
+				</div>
+				<div>
+					<h4>Musicians</h4>
+						<ul>
+							<li>Ben Platt</li>
+							<li>Vince Guaraldi</li>
+							<li>Chopin</li>
+						</ul>
+				</div>
+				<div>
+					<h4>TV Shows</h4>
+						<ul>
+							<li>Andi Mack</li>
+							<li>Spongebob Squarepants</li>
+							<li>Jeopardy</li>
+						</ul>
+				</div>
+				<div>
+					<h4>Figure Skaters</h4>
+						<ul>
+							<li>Evgenia Medvedeva</li>
+							<li>Alena Kostornaia</li>
+							<li>Gracie Gold</li>
+						</ul>
+				</div>
+				<div>
+					<h4>Animals</h4>
+						<ul>
+							<li>Rabbits</li>
+							<li>Cats</li>
+							<li>Otters</li>
+						</ul>
+				</div>
+				<div>
+					<h4>Seasons</h4>
+						<ol>
+							<li>Winter</li>
+							<li>Fall</li>
+							<li>Spring</li>
+						</ol>
+				</div>
+				<div>
+					<h4>Colors</h4>
+						<ul>
+							<li>Yellow</li>
+							<li>Purple</li>
+							<li>Peach</li>
+						</ul>
+				</div>
 
-		</div>
+			</div>
 	</section>
 
 	<aside>

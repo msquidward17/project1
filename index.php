@@ -7,7 +7,7 @@
 	<ul class="home">
 		<li class="mb">
 			<h2>Michael Bashner</h2>
-			<figure class="intrf"><img src="images/" alt="Michael Bashner"><figcaption>Michael Bashner</figcaption></figure>
+			<figure class="intrf"><img src="images/page-icon.jpg" alt="Michael Bashner"><figcaption>Michael Bashner</figcaption></figure>
 			<p class="intrp">Michael Bashner is a student at the University of Rochester majoring in Computer Science, minoring in Linguistics, and clustering in Gender, Sexuality, and Women's Studies.</p><a href="mb.php" class="rdmore">Read more</a>
 		</li>
 

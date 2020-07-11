@@ -9,6 +9,6 @@
 	</head>
 	<body>
 		<header>
-			<h1>Project 2</h1>
+			<a href="index.php"><h1>Project 2</h1></a>
 			<?php include "inc/nav.php"; ?>
 		</header>

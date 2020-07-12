@@ -86,17 +86,9 @@
 						<div>
 							<h5>Animals</h5>
 							<ul>
-								<li>My dog</li>
-								<li>Other dogs</li>
-								<li>Other animals</li>
-							</ul>
-						</div>
-						<div>
-							<h5>Artists</h5>
-							<ul>
-								<li>Crosby, Stills, Nash, & (sometimes) Young</li>
-								<li>The Who</li>
-								<li>Tim Minchin</li>
+								<li>Dogs</li>
+								<li>Dolphins</li>
+								<li>Apes</li>
 							</ul>
 						</div>
 						<div>
@@ -108,6 +100,14 @@
 							</ul>
 						</div>
 						<div>
+							<h5>Dream Roles</h5>
+							<ul>
+								<li>Charlemange from <cite>Pippin</cite></li>
+								<li>Hades from <cite>Hadestown</cite></li>
+								<li>Scar from <cite>The Lion King</cite></li>
+							</ul>
+						</div>
+						<div>
 							<h5>Movies</h5>
 							<ul>
 								<li>list</li>
@@ -116,17 +116,24 @@
 						
 						<div>
 							<h5>Musicals</h5>
-							<ul>
+							<ol>
 								<li><cite>Pippin</cite> by Stephen Schwartz</li>
 								<li><cite>Hadestown</cite> by Anaïs Mitchell</li>
 								<li><cite>Groundhog Day</cite> by Tim Minchin</li>
+							</ol>
+						</div>
+						<div>
+							<h5>Musicians</h5>
+							<ul>
+								<li>Crosby, Stills, & Nash, (& Young)</li>
+								<li>The Who</li>
+								<li>Tim Minchin</li>
 							</ul>
 						</div>
-						
 						<div>
-							<h5>Plays</h5>
+							<h5>Musicals (Michael acted in)</h5>
 							<ul>
-								<li>list</li>
+								<li><cite></cite></li>
 							</ul>
 						</div>
 						
@@ -146,7 +153,7 @@
 					</div>
 					<section>
 						<h4>Pets</h4>
-						<p>Michael has _____ dogs and __others?____. About them:________-insert some stuff, maybe a picture would be cute-____</p>
+						<p>Michael has one dog and no others. About her: her name is yoda and she is a diva but a good floof ball</p>
 						<figure>
 							<img src="images/" alt="">
 							<figcaption>caption</figcaption>

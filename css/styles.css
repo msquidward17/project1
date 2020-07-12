@@ -15,9 +15,9 @@ body {
 	width: 95%;
 }
 
-.article {
+/* .article {
 	margin-top: 50px;
-}
+} */
 
 ::selection {
 	background: whitesmoke;
@@ -30,15 +30,14 @@ h1 {
 	/*font-family: 'Niconne', cursive;*/
 	font-size: 45px;
 	text-shadow: 1px 2px 2px indigo;
+	margin: auto 1vw;
 }
 
 h2{
 		font-size: 40px;
-
 }
 
 h3 {
-
 	font-size: 25px;
 	font-weight : bold;
 	margin-bottom : 10px;
@@ -49,7 +48,6 @@ h3 {
 h4 {
 	font-size: 15px;
 	color: #000000;
-
 }
 
 
@@ -68,8 +66,8 @@ p {
 
 figure {
 	text-align: center;
-	padding: 100px 0px 100px 0px;
-	margin-top:0px;
+	/* padding: 100px 0px 100px 0px; */
+	/* margin-top: 0; */
 }
 
 img{
@@ -109,8 +107,6 @@ span{
 
 
 /*index*/
-
-
 .intros{
 	display: grid;
 	grid-template-columns: 1fr 1fr;
@@ -127,6 +123,7 @@ span{
 	padding: 5px;
 	max-width: 400px;
 }
+
 .homepage p{
 	margin: 0px 5px 0px 5px;
 }
@@ -143,17 +140,21 @@ span{
 
 /* black background */
 .blacktop{
-	background-color: #000000;
 	min-height: 90vh;
+	padding-bottom: 50px;
 	border-bottom: solid 50px;
 	border-bottom-color: mediumvioletred;
+	background-color: #000000;
 	color: #FFFFFF;
-	padding-bottom: 50px;
 }
 
 .blackcontent{
 	margin: 0 auto;
 	max-width: 1000px;
 	width: 95%;
+}
+
+main header {
+	flex-direction: column;
 }
 

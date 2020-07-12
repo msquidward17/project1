@@ -1,20 +1,15 @@
 <?php include "inc/html-top.php"; ?>
-
-<body>
-<?php include "inc/nav.php"; ?>
-	<div class="blacktop">
+	<main>
+	<header class="blacktop">
 		<div class = "blackcontent">
-		<header>
-			<figure><img src="images/jp_self.jpg" alt="Joo Eon Park"></figure>
-			<h1>Joo Eon Park</h1>
-		</header>
-
-		<div class="article">
+			<figure>
+				<img src="images/jp_self.jpg" alt="Joo Eon Park">
+			</figure>
+			<h2>Joo Eon Park</h2>
 			<p>Joo Eon Park (he/him) is a rising junior at the University of Rochester. He has a wide range of interests, including art, music, and technology, and tries his best to learn from a variety of different experiences available to him in college.</p>
 			<p>He is from South Korea, and was born and raised there. He is fluent in both English and Korean (and speaks a bit of French).</p>
 		</div>
-		</div>
-	</div>
+	</header>
 <div class="container">
 		<section>
 			<h2>Academics</h2>
@@ -51,7 +46,7 @@
 				<div>
 					<div class="article">
 					<h3>On campus</h3>
-						<p>At the University of Rochester, Joo Eon is an active member of Cinema Group, Meliora Fitness, and plays guitar for the Rock Repertory Ensemble.<p>
+						<p>At the University of Rochester, Joo Eon is an active member of Cinema Group, Meliora Fitness, and plays guitar for the Rock Repertory Ensemble.</p>
 						<p>When not in class, he can be found playing video games, studying, playing the guitar, listening to music, or browsing the internet.</p>
 					</div>
 				</div>
@@ -189,6 +184,7 @@
 		<aside>
 			<p id="quote2">"The story of life is quicker than the wink of an eye, the story of love is hello and goodbye...until we meet again."<span> ~ Jimi Hendrix</span></p>
 		</aside>
+	</main>
 
 		<footer>
 			<p>

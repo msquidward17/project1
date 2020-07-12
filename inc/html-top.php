@@ -7,3 +7,8 @@
 		<link rel="stylesheet" href="css/navigation.css">
 		<link href="https://fonts.googleapis.com/css2?family=Merriweather:wght@300&family=Niconne&display=swap" rel="stylesheet">
 	</head>
+	<body>
+		<header>
+			<a href="index.php"><h1>Project 2</h1></a>
+			<?php include "inc/nav.php"; ?>
+		</header>

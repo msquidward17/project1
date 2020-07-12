@@ -46,34 +46,6 @@
 					</ul>
 				</section>
 			</section>
-      <section class="container">
-				<h3>Activities</h3>
-				<div class="grida">
-					<div>
-						<div class="article">
-							<h4>On campus</h4>
-							<p>At the University of Rochester, Molly is an active member of Creative Arts Club, Vice President of Cinema Group, and plays the carillon.</p>
-							<p>When not in class, she can be found studying, reading, making art, playing music, listening to music, or decorating. She always keeps busy to learn new things at every opportunity.</p>
-						</div>
-					</div>
-					<div>
-						<aside class="container">
-							<h4>Other activities:</h4>
-							<ul>
-								<li>Drawing and painting classes</li>
-								<li>Interning at Fiveable (currently a Founding Member)</li>
-								<li>Piano, viola, and violin lessons</li>
-								<li>Photography</li>
-								<li>Mixed media art</li>
-								<li>Roller skating</li>
-								<li>Travelling</li>
-								<li>Attending musicals</li>
-								<li>Watching Disney+</li>
-							</ul>
-						</aside>
-					</div>
-				</div>
-			</section>
 			<section class="container">
 				<h3>Interests</h3>
 				<section>
@@ -104,6 +76,35 @@
 					</section>
 				</section>
 			</section>
+      <section class="container">
+				<h3>Activities</h3>
+				<div class="grida">
+					<div>
+						<div class="article">
+							<h4>On campus</h4>
+							<p>At the University of Rochester, Molly is an active member of Creative Arts Club, Vice President of Cinema Group, and plays the carillon.</p>
+							<p>When not in class, she can be found studying, reading, making art, playing music, listening to music, or decorating. She always keeps busy to learn new things at every opportunity.</p>
+						</div>
+					</div>
+					<div>
+						<aside class="container">
+							<h4>Other activities:</h4>
+							<ul>
+								<li>Drawing and painting classes</li>
+								<li>Interning at Fiveable (currently a Founding Member)</li>
+								<li>Piano, viola, and violin lessons</li>
+								<li>Photography</li>
+								<li>Mixed media art</li>
+								<li>Roller skating</li>
+								<li>Travelling</li>
+								<li>Attending musicals</li>
+								<li>Watching Disney+</li>
+							</ul>
+						</aside>
+					</div>
+				</div>
+			</section>
+			
 	<section class="interests container">
 		<h3>Fun facts</h3>
 			<h4>Favorite things:</h4>

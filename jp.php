@@ -40,32 +40,6 @@
 					</ul>
 				</section>
 				<section class="container">
-					<h3>Activities</h3>
-					<div class="grida">
-						<div>
-							<div class="article">
-								<h4>On campus</h4>
-								<p>At the University of Rochester, Joo Eon is an active member of Cinema Group, Meliora Fitness, and plays guitar for the Rock Repertory Ensemble.</p>
-								<p>When not in class, he can be found playing video games, studying, playing the guitar, listening to music, or browsing the internet.</p>
-							</div>
-						</div>
-						<div>
-							<aside>
-								<h4>Other activities:</h4>
-								<ul>
-									<li>Doing art</li>
-									<li>Viewing art - museums/galleries</li>
-									<li>Exercising</li>
-									<li>Biking</li>
-									<li>Playing Ultimate Frisbee</li>
-									<li>Watching movies</li>
-									<li>Reading novels or comic books</li>
-								</ul>
-							</aside>
-						</div>
-					</div>
-				</section>
-				<section class="container">
 					<h3>Interests</h3>
 					<section>
 						<h4>The Arts</h4>
@@ -95,6 +69,32 @@
 							</figure>
 						</section>
 					</section>
+				</section>
+				<section class="container">
+					<h3>Activities</h3>
+					<div class="grida">
+						<div>
+							<div class="article">
+								<h4>On campus</h4>
+								<p>At the University of Rochester, Joo Eon is an active member of Cinema Group, Meliora Fitness, and plays guitar for the Rock Repertory Ensemble.</p>
+								<p>When not in class, he can be found playing video games, studying, playing the guitar, listening to music, or browsing the internet.</p>
+							</div>
+						</div>
+						<div>
+							<aside>
+								<h4>Other activities:</h4>
+								<ul>
+									<li>Doing art</li>
+									<li>Viewing art - museums/galleries</li>
+									<li>Exercising</li>
+									<li>Biking</li>
+									<li>Playing Ultimate Frisbee</li>
+									<li>Watching movies</li>
+									<li>Reading novels or comic books</li>
+								</ul>
+							</aside>
+						</div>
+					</div>
 				</section>
 				<section class="container">
 					<h3>Fun facts</h3>

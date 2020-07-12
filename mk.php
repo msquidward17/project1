@@ -58,7 +58,7 @@
 					</div>
 					<div>
 						<aside class="container">
-							<h3>Other activities:</h3>
+							<h4>Other activities:</h4>
 							<ul>
 								<li>Drawing and painting classes</li>
 								<li>Interning at Fiveable (currently a Founding Member)</li>
@@ -108,7 +108,6 @@
 		<h3>Fun facts</h3>
 			<h4>Favorite things:</h4>
 			<div class="gridi">
-				
 				<div>
 					<h5>Animals</h5>
 						<ul>
@@ -181,7 +180,6 @@
 							<li>Jeopardy</li>
 						</ul>
 				</div>
-			
 		</div>
 			<h4>Pets</h4>
 				<p>Molly has two cats, named Mango and Rosamond.</p>
@@ -189,7 +187,6 @@
 				<figure><img src="images/mkcats.jpg" alt="Cats"><figcaption>Mango and Rosamond</figcaption></figure>
 			<h4>Skills</h4>
 				<p>Molly is a good writer, an active listener, and is excellent at organization. She has a lot of passions, but finds a way to contribute her time to each of them.</p>
-			
 	</section>
 	</article>
 	</main>
@@ -200,16 +197,13 @@
 		<p id="tolstoy">"There is something in the human spirit that will survive and prevail, there is a tiny and brilliant light burning in the heart of man that will not go out no matter how dark the world becomes."<span> ~ Tolstoy</span></p>
 		-->
 		<p id="lived">"...and not, when I had come to die, discover that I had not lived."<span> ~ Thoreau</span></p>
-		
 	</aside>
-
 	<footer>
 			<p>
 			CSC 174: Advanced Front-end Web Design and Development -
 			<a href="http://csc174.org/lab01/mkilian/lab01/" target=_blank>Original Lab 01</a>
 			</p>
 	</footer>
-
 <?php include "inc/scripts.php"; ?>
 </body>
 </html>

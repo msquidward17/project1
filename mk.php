@@ -46,6 +46,34 @@
 					</ul>
 				</section>
 			</section>
+      <section class="container">
+				<h3>Activities</h3>
+				<div class="grida">
+					<div>
+						<div class="article">
+							<h4>On campus</h4>
+							<p>At the University of Rochester, Molly is an active member of Creative Arts Club, Vice President of Cinema Group, and plays the carillon.</p>
+							<p>When not in class, she can be found studying, reading, making art, playing music, listening to music, or decorating. She always keeps busy to learn new things at every opportunity.</p>
+						</div>
+					</div>
+					<div>
+						<aside class="container">
+							<h3>Other activities:</h3>
+							<ul>
+								<li>Drawing and painting classes</li>
+								<li>Interning at Fiveable (currently a Founding Member)</li>
+								<li>Piano, viola, and violin lessons</li>
+								<li>Photography</li>
+								<li>Mixed media art</li>
+								<li>Roller skating</li>
+								<li>Travelling</li>
+								<li>Attending musicals</li>
+								<li>Watching Disney+</li>
+							</ul>
+						</aside>
+					</div>
+				</div>
+			</section>
 			<section class="container">
 				<h3>Interests</h3>
 				<section>
@@ -76,137 +104,112 @@
 					</section>
 				</section>
 			</section>
-			<section class="container">
-				<h3>Activities</h3>
-				<div class="grida">
-					<div>
-						<div class="article">
-							<h4>On campus</h4>
-							<p>At the University of Rochester, Molly is an active member of Creative Arts Club, Vice President of Cinema Group, and plays the carillon.</p>
-							<p>When not in class, she can be found studying, reading, making art, playing music, listening to music, or decorating. She always keeps busy to learn new things at every opportunity.</p>
-						</div>
-					</div>
-					<div>
-						<aside class="container">
-							<h3>Other activities:</h3>
-							<ul>
-								<li>Drawing and painting classes</li>
-								<li>Interning at Fiveable (currently a Founding Member)</li>
-								<li>Piano, viola, and violin lessons</li>
-								<li>Photography</li>
-								<li>Mixed media art</li>
-								<li>Roller skating</li>
-								<li>Travelling</li>
-								<li>Attending musicals</li>
-								<li>Watching Disney+</li>
-							</ul>
-						</aside>
-					</div>
+	<section class="interests container">
+		<h3>Fun facts</h3>
+			<h4>Favorite things:</h4>
+			<div class="gridi">
+				
+				<div>
+					<h5>Animals</h5>
+						<ul>
+							<li>Rabbits</li>
+							<li>Cats</li>
+							<li>Otters</li>
+						</ul>
 				</div>
-			</section>
-			<section class="interests container">
-				<h3>Fun facts</h3>
-					<h4>Skills</h4>
-						<p>Molly is a good writer, an active listener, and is excellent at organization. She has a lot of passions, but finds a way to contribute her time to each of them.</p>
-					<h4>Pets</h4>
-						<p>Molly has two cats, named Mango and Rosamond.</p>
-						<p>Mango is a fluffy orange cat, whose name Molly did not choose but fits perfectly. He is outgoing and affectionate. He is 6 years old. Rosamond is a calico cat, who enjoys taking naps and looking out the windows at birds. She is 16 years old.</p>
-					<figure>
-						<img src="images/mkcats.jpg" alt="Cats">
-						<figcaption>Mango and Rosamond</figcaption>
-					</figure>
-				<h4>Favorite things:</h4>
-				<div class="gridi">
-					<div>
-						<h5>Movies</h5>
-							<ul>
-								<li>Dead Poets Society</li>
-								<li>The Spongebob Squarepants Movie</li>
-								<li>Christopher Robin</li>
-							</ul>
-					</div>
-					<div>
-						<h5>Books</h5>
-							<ul>
-								<li>Anna Karenina</li>
-								<li>Ashes in the Snow</li>
-								<li>What the Night Sings</li>
-							</ul>
-					</div>
-					<div>
-						<h5>Musicals</h5>
-							<ul>
-								<li>Hamilton</li>
-								<li>Dear Evan Hansen</li>
-								<li>The Spongebob Squarepants Musical</li>
-							</ul>
-					</div>
-					<div>
-						<h5>Musicians</h5>
-							<ul>
-								<li>Ben Platt</li>
-								<li>Vince Guaraldi</li>
-								<li>Chopin</li>
-							</ul>
-					</div>
-					<div>
-						<h5>TV Shows</h5>
-							<ul>
-								<li>Andi Mack</li>
-								<li>Spongebob Squarepants</li>
-								<li>Jeopardy</li>
-							</ul>
-					</div>
-					<div>
-						<h5>Figure Skaters</h5>
-							<ul>
-								<li>Evgenia Medvedeva</li>
-								<li>Alena Kostornaia</li>
-								<li>Gracie Gold</li>
-							</ul>
-					</div>
-					<div>
-						<h5>Animals</h5>
-							<ul>
-								<li>Rabbits</li>
-								<li>Cats</li>
-								<li>Otters</li>
-							</ul>
-					</div>
-					<div>
-						<h5>Seasons</h5>
-							<ol>
-								<li>Winter</li>
-								<li>Fall</li>
-								<li>Spring</li>
-							</ol>
-					</div>
-					<div>
-						<h5>Colors</h5>
-							<ul>
-								<li>Yellow</li>
-								<li>Purple</li>
-								<li>Peach</li>
-							</ul>
-					</div>
+				<div>
+					<h5>Books</h5>
+						<ul>
+							<li>Anna Karenina</li>
+							<li>Ashes in the Snow</li>
+							<li>What the Night Sings</li>
+						</ul>
 				</div>
-			</section>
-		<!-- </section> -->
-		</article>
+				<div>
+					<h5>Colors</h5>
+						<ul>
+							<li>Yellow</li>
+							<li>Purple</li>
+							<li>Peach</li>
+						</ul>
+				</div>
+				<div>
+					<h5>Figure Skaters</h5>
+						<ul>
+							<li>Evgenia Medvedeva</li>
+							<li>Alena Kostornaia</li>
+							<li>Gracie Gold</li>
+						</ul>
+				</div>
+				<div>
+					<h5>Movies</h5>
+						<ul>
+							<li>Dead Poets Society</li>
+							<li>The Spongebob Squarepants Movie</li>
+							<li>Christopher Robin</li>
+						</ul>
+				</div>
+				<div>
+					<h5>Musicals</h5>
+						<ul>
+							<li>Hamilton</li>
+							<li>Dear Evan Hansen</li>
+							<li>The Spongebob Squarepants Musical</li>
+						</ul>
+				</div>
+				<div>
+					<h5>Musicians</h5>
+						<ul>
+							<li>Ben Platt</li>
+							<li>Vince Guaraldi</li>
+							<li>Chopin</li>
+						</ul>
+				</div>
+				<div>
+					<h5>Seasons</h5>
+						<ul>
+							<li>Winter</li>
+							<li>Fall</li>
+							<li>Spring</li>
+						</ul>
+				</div>
+				<div>
+					<h5>TV Shows</h5>
+						<ul>
+							<li>Andi Mack</li>
+							<li>Spongebob Squarepants</li>
+							<li>Jeopardy</li>
+						</ul>
+				</div>
+			
+		</div>
+			<h4>Pets</h4>
+				<p>Molly has two cats, named Mango and Rosamond.</p>
+				<p>Mango is a fluffy orange cat, whose name Molly did not choose but fits perfectly. He is outgoing and affectionate. He is 6 years old. Rosamond is a calico cat, who enjoys taking naps and looking out the windows at birds. She is 16 years old.</p>
+				<figure><img src="images/mkcats.jpg" alt="Cats"><figcaption>Mango and Rosamond</figcaption></figure>
+			<h4>Skills</h4>
+				<p>Molly is a good writer, an active listener, and is excellent at organization. She has a lot of passions, but finds a way to contribute her time to each of them.</p>
+			
+	</section>
+	</article>
 	</main>
+	<aside class="container">
+		<!-- Quotes that do not fit the number on the other pages
+		<p id="aamilne">"You're braver than you believe, stronger than you seem, and smarter than you think."<span> ~ Milne</span></p>
+		<p id="play">"The powerful play goes on, and you may contribute a verse."<span> ~ Whitman</span></p>
+		<p id="tolstoy">"There is something in the human spirit that will survive and prevail, there is a tiny and brilliant light burning in the heart of man that will not go out no matter how dark the world becomes."<span> ~ Tolstoy</span></p>
+		-->
+		<p id="lived">"...and not, when I had come to die, discover that I had not lived."<span> ~ Thoreau</span></p>
+		
+	</aside>
 
-		<aside class="container">
-			<p id="aamilne">"You're braver than you believe, stronger than you seem, and smarter than you think."<span> ~ Milne</span></p>
-			<p id="play">"The powerful play goes on, and you may contribute a verse."<span> ~ Whitman</span></p>
-			<p id="tolstoy">"There is something in the human spirit that will survive and prevail, there is a tiny and brilliant light burning in the heart of man that will not go out no matter how dark the world becomes."<span> ~ Tolstoy</span></p>
-			<p id="lived">"...and not, when I had come to die, discover that I had not lived."<span> ~ Thoreau</span></p>
-		</aside>
-		<footer>
-				<p>
-				CSC 174: Advanced Front-end Web Design and Development -
-				<a href="http://csc174.org/lab01/mkilian/lab01/" target=_blank>Original Lab 01</a>
-				</p>
-		</footer>
-		<?php include "inc/scripts.php"; ?>
-	</body>
+	<footer>
+			<p>
+			CSC 174: Advanced Front-end Web Design and Development -
+			<a href="http://csc174.org/lab01/mkilian/lab01/" target=_blank>Original Lab 01</a>
+			</p>
+	</footer>
+
+<?php include "inc/scripts.php"; ?>
+</body>
 </html>

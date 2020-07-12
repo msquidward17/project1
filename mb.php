@@ -63,63 +63,118 @@
 					</div>
 					<aside>
 						<h4>Other activities:</h4>
+					<ul>
+						<li>list</li>
+					</ul>
+				</aside>
+				</div>
+			</div>
+    </section>
+	<section>
+		<h2>Interests</h2>
+			<h3>Music</h3>
+				<p>Michael has loved music since he was a little kid. He has been singing since he was young, started playing the ukulele in 10th grade and then moved to playing the guitar in 11th grade. The pictures below are from his participation in No Jacket's Required (NJR) Shows.</p>
+					<figure>
+						<img src="images/guitar.jpg" alt="Playing acoustic guitar on Free Bird">
+					<figcaption>Playing acoustic guitar on Free Bird</figcaption>
+					</figure>
+					<figure>
+						<img src="images/vocals.jpg" alt="Singing I Hate Myself for Loving You">
+					<figcaption>Singing I Hate Myself for Loving You</figcaption>
+				</figure>
+			<h3>The Arts</h3>
+				<h4>Theater</h4>
+				<p>Michael is an active theater lover. On campus, he gets his theater fix by participating in Off Broadway on Campus (OBOC) The pictures below are from shows that he did in high school.</p>
+					<figure>
+						<img src="images/constable.jpg" alt="Constable Locke in the Music Man">
+						<figcaption>As Constable Locke in the Music Man</figcaption>
+					</figure>
+					<figure>
+						<img src="images/old-man.jpg" alt="The Old Man in the Tell Tale Heart">
+						<figcaption>As the Old Man in the Tell Tale Heart</figcaption>
+					</figure>
+	</section
+	<section>
+		<h2>Fun facts</h2>
+			<h3>Favorite things</h3>
+			<div class="gridi">
+				<div>
+					<h4>Bands</h4>
 						<ul>
-							<li>list</li>
+							<li></li>
+							<li></li>
+							<li></li>
+						</ul>
+				</div>
+				
+				<div>
+					<h4>Books</h4>
+						<ul>
+							<li></li>
+							<li></li>
+							<li></li>
 						</ul>
 					</aside>
 				</div>
 			</section>
 			<section class="container">
 				<h3>Fun facts</h3>
-				<h4>Skills</h4>
-				<p>Michael has basic writing skills since he took a short story class in high school, and completed the required undergraduate first year writing course (WRT105) at the University. He has great programming skills due to his background in Computer Science.</p>
-				<h4>Pets</h4>
-				<p>Michael has _____ dogs and __others?____. About them:________-insert some stuff, maybe a picture would be cute-____</p>
-			<figure><img src="images/" alt=""><figcaption>caption</figcaption></figure>
-			<h4>Favorite things</h4>
+        	<h4>Favorite things</h4>
 			<div class="gridi">
 				<div>
-					<h5>item</h5>
+					<h5>Colors</h5>
 					<ul>
 						<li>list</li>
 					</ul>
 				</div>
 				
 				<div>
-					<h5>item</h5>
+					<h5>Foods</h5>
 					<ul>
 						<li>list</li>
 					</ul>
 				</div>
 				
 				<div>
-					<h5>item</h5>
+					<h5>Movies</h5>
 					<ul>
 						<li>list</li>
 					</ul>
 				</div>
 				
 				<div>
-					<h5>item</h5>
+					<h5>Musicals</h5>
 					<ul>
 						<li>list</li>
 					</ul>
 				</div>
 				
 				<div>
-					<h5>item</h5>
+					<h5>Plays</h5>
 					<ul>
 						<li>list</li>
 					</ul>
 				</div>
 				
 				<div>
-					<h5>item</h5>
+					<h5>Songs</h5>
 					<ul>
 						<li>list</li>
 					</ul>
 				</div>
-			</div>
+        
+        <div>
+					<h5>TV Shows</h5>
+					<ul>
+						<li>list</li>
+					</ul>
+				</div>
+        </div>
+        <h4>Pets</h4>
+				<p>Michael has _____ dogs and __others?____. About them:________-insert some stuff, maybe a picture would be cute-____</p>
+			  <figure><img src="images/" alt=""><figcaption>caption</figcaption></figure>
+				<h4>Skills</h4>
+				<p>Michael has basic writing skills since he took a short story class in high school, and completed the required undergraduate first year writing course (WRT105) at the University. He has great programming skills due to his background in Computer Science.</p>
 			
 		</section>
 		</article>

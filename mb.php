@@ -7,8 +7,8 @@
 							<img src="images/mb.jpg" alt="Michael Bashner">
 						</figure>
 						<h2>Michael Bashner</h2>
-						<p>Michael Bashner (he/him) is a rising ____ at the University of Rochester. He is a computer science major, a linguistics minor, has a cluster in gender, sexuality, and women's studies.</p>
-						<p>He is from ______ and ____-insert fun fact about family or pets here-____</p>
+						<p>Michael Bashner (he/him) is a rising senior at the University of Rochester. He is a computer science major, a linguistics minor, has a cluster in gender, sexuality, and women's studies.</p>
+						<p>He is from Brooklyn and has a younger sister. My mom is a gynecologist and my dad used to be a real estate lawyer.</p>
 					</div>
 				</header>
 				<section class="container">
@@ -67,53 +67,6 @@
 							<h4>Other activities:</h4>
 							<ul>
 								<li>list</li>
-							</ul>
-						</aside>
-					</div>
-				</section>
-				<section class="container">
-					<h2>Interests</h2>
-					<h3>Music</h3>
-					<p>Michael has loved music since he was a little kid. He has been singing since he was young, started playing the ukulele in 10th grade and then moved to playing the guitar in 11th grade. The pictures below are from his participation in No Jacket's Required (NJR) Shows.</p>
-					<figure>
-						<img src="images/guitar.jpg" alt="Playing acoustic guitar on Free Bird">
-						<figcaption>Playing acoustic guitar on Free Bird</figcaption>
-					</figure>
-					<figure>
-						<img src="images/vocals.jpg" alt="Singing I Hate Myself for Loving You">
-						<figcaption>Singing I Hate Myself for Loving You</figcaption>
-					</figure>
-					<h3>The Arts</h3>
-					<h4>Theater</h4>
-					<p>Michael is an active theater lover. On campus, he gets his theater fix by participating in Off Broadway on Campus (OBOC) The pictures below are from shows that he did in high school.</p>
-					<figure>
-						<img src="images/constable.jpg" alt="Constable Locke in the Music Man">
-						<figcaption>As Constable Locke in the Music Man</figcaption>
-					</figure>
-					<figure>
-						<img src="images/old-man.jpg" alt="The Old Man in the Tell Tale Heart">
-						<figcaption>As the Old Man in the Tell Tale Heart</figcaption>
-					</figure>
-				</section>
-				<section class="container">
-					<h2>Fun facts</h2>
-					<h3>Favorite things</h3>
-					<div class="gridi">
-						<div>
-							<h4>Bands</h4>
-							<ul>
-								<li></li>
-								<li></li>
-								<li></li>
-							</ul>
-						</div>
-						
-						<div>
-							<h4>Books</h4>
-							<ul>
-								<li></li>
-								<li></li>
-								<li></li>
 							</ul>
 						</aside>
 					</div>

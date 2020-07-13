@@ -46,26 +46,30 @@
 						<section>
 							<h5>Art</h5>
 							<p>Joo Eon has always had great interest in art and design. One of his favorite things to do is go to museums and galleries. To keep his interest in art alive, he took a course on printmaking last semester. This was the first time he did printmaking, and it was a lot of fun. This piece was inspired by M.C. Escher's work. This type of pattern is called a tessellation. Linoleum blocks were carved, inked, and pressed onto the paper. This technique is called relief printing.</p>
-							<figure>
-								<img src="images/jp_art.jpg" alt="jooeon_art1">
-								<figcaption><em>Symbiosis</em>, Relief Print</figcaption>
-							</figure>
-							<figure>
-								<img src="images/jp_art2.jpg" alt="jooeon_art2">
-								<figcaption>Cross-hatching Sketch</figcaption>
+							<figure class="side-by-side">
+								<figure>
+									<img src="images/jp_art.jpg" alt="jooeon_art1">
+									<figcaption><em>Symbiosis</em>, Relief Print</figcaption>
+								</figure>
+								<figure>
+									<img src="images/jp_art2.jpg" alt="jooeon_art2">
+									<figcaption>Cross-hatching Sketch</figcaption>
+								</figure>
 							</figure>
 						</section>
 						<section>
 							<h5>Music</h5>
 							<p>Joo Eon has always been in close proximity to music, mainly due to his dad's career in the musical world. He most closely relates to rock music and the electric guitar, having listened to various rock genres and bands since he was young. He most fondly recalls listening to Jimi Hendrix in his dad's car. At the time, he had no regard for what he was listening to, but as he grew up, he developed a great appreciation for Hendrix and music in general.</p>
 							<p>Now, he is always with a guitar, practicing on the daily. He plays in the Rock Ensemble at school, take Jazz guitar lessons at the Eastman School of Music, and has begun recording and mixing his guitar playing. He hopes to begin writing his own songs one day.</p>
-							<figure>
-								<img src="images/jp_music.jpg" alt="guitar_in_studio">
-								<figcaption>Playing guitar in studio</figcaption>
-							</figure>
-							<figure>
-								<img src="images/jp_music2.jpg" alt="guitar_on_stage">
-								<figcaption>Playing guitar on stage</figcaption>
+							<figure class="side-by-side">
+								<figure>
+									<img src="images/jp_music.jpg" alt="guitar_in_studio">
+									<figcaption>Playing guitar in studio</figcaption>
+								</figure>
+								<figure>
+									<img src="images/jp_music2.jpg" alt="guitar_on_stage">
+									<figcaption>Playing guitar on stage</figcaption>
+								</figure>
 							</figure>
 						</section>
 					</section>
@@ -185,7 +189,7 @@
 				</section>
 			</section>
 			<aside class="container">
-				<p id="quote2">"The story of life is quicker than the wink of an eye, the story of love is hello and goodbye...until we meet again."<span> ~ Jimi Hendrix</span></p>
+				<p id="quote2"><q>The story of life is quicker than the wink of an eye, the story of love is hello and goodbye...until we meet again.</q><span> ~ Jimi Hendrix</span></p>
 			</aside>
 		</article>
 	</main>

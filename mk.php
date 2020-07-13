@@ -11,7 +11,6 @@
 					<p>She is from Utica, NY, and has one older brother and two cats. Her mother is an art teacher and her father is a newspaper editor.</p>
 				</div>
 			</header>
-			<!-- <div class="container"> -->
 			<section class="container">
 				<h3>Academics</h3>
 				<p>Molly Kilian is a rising sophomore at the University of Rochester, interested in a wide variety of subjects. She is planning to major in some form of humanities or social science, and to minor in Computer Science and/or Digital Media Studies.</p>
@@ -53,25 +52,29 @@
 					<section>
 						<h5>Figure Skating</h5>
 						<p>Molly is Molly is a collegiate member of Clinton Figure Skating Club and an associate member of Genesee Figure Skating Club. She is working on her juvenile moves in the field and her preliminary freeskate. Her favorite figure skater is Evgenia Medvedeva.</p>
-						<figure>
-							<img src="images/skating.jpg" alt="Figure Skating">
-							<figcaption>Molly at the 2019 ESWG</figcaption>
-						</figure>
-						<figure>
-							<img src="images/mkskate.jpg" alt="Figure Skating show">
-							<figcaption>Molly at her senior year ice show</figcaption>
+						<figure class="side-by-side">
+							<figure>
+								<img src="images/skating.jpg" alt="Figure Skating">
+								<figcaption>Molly at the 2019 ESWG</figcaption>
+							</figure>
+							<figure>
+								<img src="images/mkskate.jpg" alt="Figure Skating show">
+								<figcaption>Molly at her senior year ice show</figcaption>
+							</figure>
 						</figure>
 					</section>
 					<section>
 						<h5>Music</h5>
 						<p>Molly has played the piano and viola since 4th grade. She is also learning to play the carillon and the violin. She loves listening to classical music and soundtracks from movies and films. In her spare time, she likes to arrange music for the University of Rochester carillon.</p>
-						<figure>
-							<img src="images/mkilian.jpg" alt="Molly and bell">
-							<figcaption>Molly and a bell</figcaption>
-						</figure>
-						<figure>
-							<img src="images/mkcarillon.jpg" alt="Molly playing carillon">
-							<figcaption>Molly playing carillon at the Christmas concert, 2019</figcaption>
+						<figure class="side-by-side">
+							<figure>
+								<img src="images/mkilian.jpg" alt="Molly and bell">
+								<figcaption>Molly and a bell</figcaption>
+							</figure>
+							<figure>
+								<img src="images/mkcarillon.jpg" alt="Molly playing carillon">
+								<figcaption>Molly playing carillon at the Christmas concert, 2019</figcaption>
+							</figure>
 						</figure>
 					</section>
 				</section>
@@ -103,8 +106,7 @@
 						</aside>
 					</div>
 				</div>
-			</section>
-			
+			</section>	
 	<section class="interests container">
 		<h3>Fun facts</h3>
 			<h4>Favorite things:</h4>
@@ -185,7 +187,10 @@
 			<h4>Pets</h4>
 				<p>Molly has two cats, named Mango and Rosamond.</p>
 				<p>Mango is a fluffy orange cat, whose name Molly did not choose but fits perfectly. He is outgoing and affectionate. He is 6 years old. Rosamond is a calico cat, who enjoys taking naps and looking out the windows at birds. She is 16 years old.</p>
-				<figure><img src="images/mkcats.jpg" alt="Cats"><figcaption>Mango and Rosamond</figcaption></figure>
+				<figure>
+					<img src="images/mkcats.jpg" alt="Cats">
+					<figcaption>Mango and Rosamond</figcaption>
+				</figure>
 			<h4>Skills</h4>
 				<p>Molly is a good writer, an active listener, and is excellent at organization. She has a lot of passions, but finds a way to contribute her time to each of them.</p>
 	</section>
@@ -197,7 +202,7 @@
 		<p id="play">"The powerful play goes on, and you may contribute a verse."<span> ~ Whitman</span></p>
 		<p id="tolstoy">"There is something in the human spirit that will survive and prevail, there is a tiny and brilliant light burning in the heart of man that will not go out no matter how dark the world becomes."<span> ~ Tolstoy</span></p>
 		-->
-		<p id="lived">"...and not, when I had come to die, discover that I had not lived."<span> ~ Thoreau</span></p>
+		<p id="lived"><q>...and not, when I had come to die, discover that I had not lived.</q><span> ~ Thoreau</span></p>
 	</aside>
 	<footer>
 			<p>

@@ -4,7 +4,7 @@
 			<header class="blacktop">
 				<div class="blackcontent">
 					<figure>
-						<img src="images/headshot.png" alt="Molly Kilian">
+						<img src="images/headshot.jpg" alt="Molly Kilian">
 					</figure>
 					<h2>Molly Kilian</h2>
 					<p>Molly Kilian (she/her) is an active student at the University of Rochester. She pushes herself academically and creatively, and believes in treating others with kindness.</p>

@@ -11,7 +11,7 @@
 
 		<li class="mk">
 			<h2>Molly Kilian</h2>
-			<figure class="intrf"><img src="images/headshot.png" alt="Molly Kilian"><figcaption>Molly Kilian</figcaption></figure>
+			<figure class="intrf"><img src="images/headshot.jpg" alt="Molly Kilian"><figcaption>Molly Kilian</figcaption></figure>
 			<p class="intrp">Molly Kilian is a rising sophomore at the University of Rochester, interested in a wide variety of subjects. She is planning to major in some form of humanities or social science, and to minor in Computer Science and/or Digital Media Studies.</p><a href="mk.php" class="rdmore">Read more</a>
 		</li>
 

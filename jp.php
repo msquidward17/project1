@@ -177,7 +177,7 @@
 						<h4>Pets</h4>
 						<p>Joo Eon has a cat. Hear all about it:</p>
 						<p>"My cat's name is Haku. She is named after the character from the film, <em>Spirited Away</em>. Story: We named our cat after Haku from the film because we thought he had blue eyes, just like our cat. Turns out he doesn't... She is a 9 year old Siamese cat, though she will be turning 10 on July 15. She's needy and is sometimes an ass (as cats typically are), but she is quite cute nonetheless."</p>
-					<figure><img src="images/jp_cat.png" alt="jooeons_cat"><figcaption>Haku, 9 years old.</figcaption></figure>
+					<figure><img src="images/jp_cat.jpg" alt="jooeons_cat"><figcaption>Haku, 9 years old.</figcaption></figure>
 				</section>
 				<section>
 					<h4>Skills</h4>

@@ -83,13 +83,13 @@ img:hover{
 .grida {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
-    grid-gap: 25px;
+    gap: 25px;
 }
 
 .gridi {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
-    grid-gap: 10px;
+    gap: 10px;
 }
 
 /*quote design*/
@@ -110,7 +110,7 @@ span{
 .intros{
 	display: grid;
 	grid-template-columns: 1fr 1fr;
-	grid-gap: 25px;
+	gap: 25px;
 }
 
 .homepage{
@@ -135,7 +135,7 @@ span{
 .homepage ul{
 	display: grid;
 	grid-template-columns: 1fr 1fr;
-	grid-gap: 25px;
+	gap: 25px;
 }
 
 /* black background */
@@ -158,3 +158,10 @@ main header {
 	flex-direction: column;
 }
 
+
+.side-by-side {
+	display: flex;
+	flex-direction: row;
+	/* align-content: center; */
+	justify-content: center;
+}

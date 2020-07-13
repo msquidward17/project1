@@ -112,13 +112,6 @@
 							</ul>
 						</div>
 						<div>
-							<h5>Movies</h5>
-							<ul>
-								<li>list</li>
-							</ul>
-						</div>
-						
-						<div>
 							<h5>Musicals</h5>
 							<ol>
 								<li><cite>Pippin</cite> by Stephen Schwartz</li>
@@ -156,6 +149,14 @@
 								<li><cite>Holy Musical B@Man</cite></li>
 								<li><cite>Trail To Oregon</cite></li>
 								<li><cite>Starship</cite></li>
+							</ul>
+						</div>
+						<div>
+							<h5>Video Games</h5>
+							<ul>
+								<li>FTL: Faster than Light</li>
+								<li>Planet Coaster</li>
+								<li>Heat Signature</li>
 							</ul>
 						</div>
 					</div>

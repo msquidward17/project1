@@ -32,25 +32,29 @@
 						<section>
 							<h5>Theater</h5>
 							<p>Michael is an active theater lover. On campus, he gets his theater fix by participating in Off Broadway on Campus (OBOC) The pictures below are from shows that he did in high school.</p>
-							<figure>
-								<img src="images/constable.jpg" alt="Constable Locke in the Music Man">
-								<figcaption>As Constable Locke in <cite>The Music Man</cite></figcaption>
-							</figure>
-							<figure>
-								<img src="images/old-man.jpg" alt="The Old Man in the Tell Tale Heart">
-								<figcaption>As the Old Man in <cite>The Tell Tale Heart</cite></figcaption>
+							<figure class="side-by-side">
+								<figure>
+									<img src="images/constable.jpg" alt="Constable Locke in the Music Man">
+									<figcaption>As Constable Locke in <cite>The Music Man</cite></figcaption>
+								</figure>
+								<figure>
+									<img src="images/old-man.jpg" alt="The Old Man in the Tell Tale Heart">
+									<figcaption>As the Old Man in <cite>The Tell Tale Heart</cite></figcaption>
+								</figure>
 							</figure>
 						</section>
 						<section>
 							<h5>Music</h5>
 							<p>Michael has loved music since he was a little kid. He has been singing since he was young, started playing the ukulele in 10th grade and then moved to playing the guitar in 11th grade. The pictures below are from his participation in No Jacket's Required (NJR) Shows.</p>
-							<figure>
-								<img src="images/guitar.jpg" alt="Playing acoustic guitar on Free Bird">
-								<figcaption>Playing acoustic guitar on <cite>Free Bird</cite></figcaption>
-							</figure>
-							<figure>
-								<img src="images/vocals.jpg" alt="Singing I Hate Myself for Loving You">
-								<figcaption>Singing <cite>I Hate Myself for Loving You</cite></figcaption>
+							<figure class="side-by-side">
+								<figure>
+									<img src="images/guitar.jpg" alt="Playing acoustic guitar on Free Bird">
+									<figcaption>Playing acoustic guitar on <cite>Free Bird</cite></figcaption>
+								</figure>
+								<figure>
+									<img src="images/vocals.jpg" alt="Singing I Hate Myself for Loving You">
+									<figcaption>Singing <cite>I Hate Myself for Loving You</cite></figcaption>
+								</figure>
 							</figure>
 						</section>
 					</section>
@@ -104,7 +108,7 @@
 							<ul>
 								<li>Charlemange from <cite>Pippin</cite></li>
 								<li>Hades from <cite>Hadestown</cite></li>
-								<li>Scar from <cite>The Lion King</cite></li>
+								<li>Sweet Tooth from <cite>Holy Musical B@Man</cite></li>
 							</ul>
 						</div>
 						<div>
@@ -131,43 +135,53 @@
 							</ul>
 						</div>
 						<div>
-							<h5>Musicals (Michael acted in)</h5>
-							<ul>
-								<li><cite></cite></li>
-							</ul>
-						</div>
-						
-						<div>
-							<h5>Songs</h5>
-							<ul>
-								<li></li>
-							</ul>
-						</div>
-						
-						<div>
-							<h5>TV Shows</h5>
+							<h5>TV/Web Shows</h5>
 							<ul>
 								<li><cite>Doctor Who</cite></li>
+								<li><cite>Platoon of Power Squadron</cite></li>
+								<li><cite>Edgar Allan Poe's Murder Mystery Invite Only Casual Dinner Party / Gala For Friends Potluck</cite></li>
+							</ul>
+						</div>
+						<div>
+							<h5>Starkid Musicals</h5>
+							<ul>
+								<li><cite>Twisted: The Untold Story of a Royal Vizier</cite></li>
+								<li><cite>Black Friday</cite></li>
+								<li><cite>The Guy Who Didn't Like Musicals</cite></li>
+							</ul>
+						</div>
+						<div>
+							<h5>Starkid Musicals (Continued)</h5>
+							<ul>
+								<li><cite>Holy Musical B@Man</cite></li>
+								<li><cite>Trail To Oregon</cite></li>
+								<li><cite>Starship</cite></li>
 							</ul>
 						</div>
 					</div>
 					<section>
 						<h4>Pets</h4>
 						<p>Michael has one dog and no others. About her: her name is yoda and she is a diva but a good floof ball</p>
-						<figure>
-							<img src="images/" alt="">
-							<figcaption>caption</figcaption>
+						<figure class="side-by-side">
+							<figure>
+								<img src="images/ogyoda.jpg" alt="Yoda from Star Wars">
+								<figcaption>Not this Yoda</figcaption>
+							</figure>
+							<figure>
+								<img src="images/mbdog.jpg" alt="Michael's Dog and her name is Yoda">
+								<figcaption>This Yoda</figcaption>
+							</figure>
 						</figure>
 					</section>
 					<section>
 						<h4>Skills</h4>
-						<p>Michael has basic writing skills since he took a short story class in high school, and completed the required undergraduate first year writing course (WRT105) at the University. He has great programming skills due to his background in Computer Science.</p>
+						<p>Michael can juggle balls and clubs. He has some basic wood working skils. He sing surprisingly high for a bass. He has great programming skills due to his background in Computer Science.</p>
 					</section>
 				</section>
 			</article>
 		</main>
 		<aside class="container">
-			<p id="quote">"Quote."<span>-- name</span></p>
+			<p id="quote"><q>There’s no point in being grown up if you can’t be childish sometimes.</q><span> ~ The Doctor</span></p>
 		</aside>
 		<footer>
 			<p>

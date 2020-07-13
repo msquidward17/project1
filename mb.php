@@ -128,14 +128,6 @@
 							</ul>
 						</div>
 						<div>
-							<h5>TV/Web Shows</h5>
-							<ul>
-								<li><cite>Doctor Who</cite></li>
-								<li><cite>Platoon of Power Squadron</cite></li>
-								<li><cite>Edgar Allan Poe's Murder Mystery Invite Only Casual Dinner Party / Gala For Friends Potluck</cite></li>
-							</ul>
-						</div>
-						<div>
 							<h5>Starkid Musicals</h5>
 							<ul>
 								<li><cite>Twisted: The Untold Story of a Royal Vizier</cite></li>
@@ -152,6 +144,14 @@
 							</ul>
 						</div>
 						<div>
+							<h5>TV/Web Shows</h5>
+							<ul>
+								<li><cite>Doctor Who</cite></li>
+								<li><cite>Platoon of Power Squadron</cite></li>
+								<li><cite>Edgar Allan Poe's Murder Mystery Invite Only Casual Dinner Party / Gala For Friends Potluck</cite></li>
+							</ul>
+						</div>
+						<div>
 							<h5>Video Games</h5>
 							<ul>
 								<li>FTL: Faster than Light</li>
@@ -162,17 +162,13 @@
 					</div>
 					<section>
 						<h4>Pets</h4>
-						<p>Michael has one dog and no others. About her: her name is yoda and she is a diva but a good floof ball</p>
-						<figure class="side-by-side">
-							<figure>
-								<img src="images/ogyoda.jpg" alt="Yoda from Star Wars">
-								<figcaption>Not this Yoda</figcaption>
-							</figure>
+						<p>Michael has one dog. Her name is yoda and she is a diva but a good floof ball.</p>
+			
 							<figure>
 								<img src="images/mbdog.jpg" alt="Michael's Dog and her name is Yoda">
-								<figcaption>This Yoda</figcaption>
+								<figcaption>Yoda</figcaption>
 							</figure>
-						</figure>
+						
 					</section>
 					<section>
 						<h4>Skills</h4>

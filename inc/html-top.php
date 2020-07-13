@@ -11,6 +11,6 @@
 	</head>
 	<body>
 		<header>
-			<a href="index.php"><h1>Biographies</h1></a>
+			<a href="index.php"><h1>Project 2: London</h1></a>
 			<?php include "inc/nav.php"; ?>
 		</header>

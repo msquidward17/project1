@@ -10,5 +10,5 @@
 		<link href="https://fonts.googleapis.com/css2?family=Merriweather:wght@300&family=Niconne&display=swap" rel="stylesheet">
 	</head>
 	<body>
-		<?php include "inc/nav.php"; ?>
+		
 	

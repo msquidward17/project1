@@ -178,6 +178,17 @@ span{
 	padding-top: 0px;
 }
 
+.blacktop2{
+	padding-bottom: 10px;
+	border-bottom: solid 10px;
+	border-bottom-color: mediumvioletred;
+	background-color: #000000;
+	color: #FFFFFF;
+	margin-top: 0px;
+	padding-top: 0px;
+	margin-bottom: 10px;
+}
+
 .blackcontent{
 	margin: 0 auto;
 	max-width: 1000px;
@@ -198,6 +209,18 @@ main header {
 	justify-content: center;
 }
 
+.London{
+	font-size: 40px;
+	padding-top: 5px;
+}
+
+.homebtn
+{
+	text-align: right;
+	padding-bottom: 0px;
+	margin-bottom: 0px;
+	font-size: 22px;
+}
 /*quote design*/
 
 #aamilne, #play, #tolstoy, #lived, #quote, #quote2{

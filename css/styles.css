@@ -1,6 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Varela+Round&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Raleway&display=swap');
-/*general*/
+
+/*******************************BASE STYLES*************************************/
 
 body {
 	background: #FFFFFF;
@@ -18,8 +19,6 @@ body {
 ::selection {
 	background: whitesmoke;
 }
-
-/*specific*/
 
 h1 {
 	color: mediumvioletred;
@@ -57,8 +56,14 @@ figure {
 	/* margin-top: 0; */
 }
 
+span{
+	font-size: 25px;
+	color: mediumvioletred;
+}
 
-/*Molly's grid layout*/
+
+/*********************LAYOUT*************************************/
+
 
 .grida {
     display: grid;
@@ -70,13 +75,6 @@ figure {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     grid-gap: 10px;
-}
-
-/*quote design*/
-
-#aamilne, #play, #tolstoy, #lived, #quote, #quote2{
-	font-size: 25px;
-	font-weight: bold;
 }
 
 .pets{
@@ -96,44 +94,6 @@ figure {
 	grid-row: 1;
 	grid-column: 2;
 }
-
-span{
-	font-size: 25px;
-	color: mediumvioletred;
-}
-
-
-/*index*/
-/*.intros{
-	display: grid;
-	grid-template-columns: 1fr 1fr;
-	gap: 25px;
-}
-
-.homepage{
-	align-items: center;
-	justify-content: center;
-}
-
-.homepage li{
-	list-style-type: none;
-	padding: 5px;
-	max-width: 400px;
-}
-
-.homepage p{
-	margin: 0px 5px 0px 5px;
-}
-
-.homepage h2{
-	color: #000000;
-}
-
-.homepage ul{
-	display: grid;
-	grid-template-columns: 1fr 1fr;
-	gap: 25px;
-}*/
 
 .grid{
 	display: grid;
@@ -173,7 +133,6 @@ span{
     vertical-align: middle;
 }
 
-
 .Academics{
 	display: grid;
 	grid-template-columns: 1fr 1fr;
@@ -204,10 +163,8 @@ span{
   color: mediumvioletred;
 }
 
-.London{
-	font-size: 40px;
-}
 
+/************************************MODULES***********************************/
 
 /* black background */
 .blacktop{
@@ -235,10 +192,15 @@ main header {
 	flex-direction: column;
 }
 
-
 .side-by-side {
 	display: flex;
 	flex-direction: row;
-	/* align-content: center; */
 	justify-content: center;
+}
+
+/*quote design*/
+
+#aamilne, #play, #tolstoy, #lived, #quote, #quote2{
+	font-size: 25px;
+	font-weight: bold;
 }

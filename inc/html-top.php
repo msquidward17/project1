@@ -10,7 +10,5 @@
 		<link href="https://fonts.googleapis.com/css2?family=Merriweather:wght@300&family=Niconne&display=swap" rel="stylesheet">
 	</head>
 	<body>
-		<header>
-			<a href="index.php"><h1>Project 2: London</h1></a>
-			<?php include "inc/nav.php"; ?>
-		</header>
+		<?php include "inc/nav.php"; ?>
+	

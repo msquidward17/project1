@@ -12,11 +12,17 @@
 				</div>
 			</header>
 			<section class="container">
-				<h3>Academics</h3>
+
+				<h2>Skills</h2>
+				<p>Molly is a good writer, an active listener, and is excellent at organization. She has a lot of passions, but finds a way to contribute her time to each of them.</p>
+
+				<h2>Academics</h2><div class="Academics"><div class="ac">
 				<p>Molly Kilian is a rising sophomore at the University of Rochester, interested in a wide variety of subjects. She is planning to major in some form of humanities or social science, and to minor in Computer Science and/or Digital Media Studies.</p>
-				<p>She has taken the following classes in her time at U of R:</p>
-				<section>
-					<h4>Fall 2019</h4>
+				<p>She has taken the following classes in her time at U of R:</p></div>
+				<div class="classes">
+				<div id = "accordion">
+				
+					<h3>Fall 2019</h3><div class="pannel">
 					<ul>
 						<li>GSW 100 - Working Women: Labor Activism</li>
 						<li>MTH 171 - Honors Calculus 1</li>
@@ -24,9 +30,9 @@
 						<li>CSC 161 - Introduction to Programming</li>
 						<li>HIS 223 - European Nationalisms</li>
 					</ul>
-				</section>
-				<section>
-					<h4>Spring 2020</h4>
+				</div>
+				
+					<h3>Spring 2020</h3><div class="pannel">
 					<ul>
 						<li>HIS 252W - Immigration and the Americas</li>
 						<li>MTH 172 - Honors Calculus 2</li>
@@ -35,22 +41,22 @@
 						<li>CSC 171 - Introduction to Computer Science</li>
 						<li>EHU 284 - Civil Disobedience</li>
 					</ul>
-				</section>
-				<section>
-					<h4>Summer 2020</h4>
+				</div>
+				
+					<h3>Summer 2020</h3><div class="pannel">
 					<ul>
 						<li>MTH 165 - Linear Algebra with Differential Equations</li>
 						<li>DMS 101 - Introduction to Digital Media Studies</li>
 						<li>CSC 174 - Advanced Front End Web Development</li>
 					</ul>
-				</section>
+				</div></div></div></div>
 			</section>
+			
 			<section class="container">
-				<h3>Interests</h3>
+				<h2>Interests</h2>
 				<section>
-					<h4>The Arts</h4>
 					<section>
-						<h5>Figure Skating</h5>
+						<h3 >Figure Skating</h3>
 						<p>Molly is Molly is a collegiate member of Clinton Figure Skating Club and an associate member of Genesee Figure Skating Club. She is working on her juvenile moves in the field and her preliminary freeskate. Her favorite figure skater is Evgenia Medvedeva.</p>
 						<figure class="side-by-side">
 							<figure>
@@ -64,7 +70,7 @@
 						</figure>
 					</section>
 					<section>
-						<h5>Music</h5>
+						<h3>Music</h3>
 						<p>Molly has played the piano and viola since 4th grade. She is also learning to play the carillon and the violin. She loves listening to classical music and soundtracks from movies and films. In her spare time, she likes to arrange music for the University of Rochester carillon.</p>
 						<figure class="side-by-side">
 							<figure>
@@ -80,18 +86,18 @@
 				</section>
 			</section>
       <section class="container">
-				<h3>Activities</h3>
+				<h2>Activities</h2>
 				<div class="grida">
 					<div>
 						<div class="article">
-							<h4>On campus</h4>
+							<h3>On campus</h3>
 							<p>At the University of Rochester, Molly is an active member of Creative Arts Club, Vice President of Cinema Group, and plays the carillon.</p>
 							<p>When not in class, she can be found studying, reading, making art, playing music, listening to music, or decorating. She always keeps busy to learn new things at every opportunity.</p>
 						</div>
 					</div>
 					<div>
 						<aside class="container">
-							<h4>Other activities:</h4>
+							<h3>Other activities:</h3>
 							<ul>
 								<li>Drawing and painting classes</li>
 								<li>Interning at Fiveable (currently a Founding Member)</li>
@@ -108,11 +114,11 @@
 				</div>
 			</section>	
 	<section class="interests container">
-		<h3>Fun facts</h3>
-			<h4>Favorite things:</h4>
+		<h2>Fun facts</h2>
+			<h3>Favorite things:</h3>
 			<div class="gridi">
 				<div>
-					<h5>Animals</h5>
+					<h4>Animals</h4>
 						<ul>
 							<li>Rabbits</li>
 							<li>Cats</li>
@@ -120,7 +126,7 @@
 						</ul>
 				</div>
 				<div>
-					<h5>Books</h5>
+					<h4>Books</h4>
 						<ul>
 							<li>Anna Karenina</li>
 							<li>Ashes in the Snow</li>
@@ -128,7 +134,7 @@
 						</ul>
 				</div>
 				<div>
-					<h5>Colors</h5>
+					<h4>Colors</h4>
 						<ul>
 							<li>Yellow</li>
 							<li>Purple</li>
@@ -136,7 +142,7 @@
 						</ul>
 				</div>
 				<div>
-					<h5>Figure Skaters</h5>
+					<h4>Figure Skaters</h4>
 						<ul>
 							<li>Evgenia Medvedeva</li>
 							<li>Alena Kostornaia</li>
@@ -144,7 +150,7 @@
 						</ul>
 				</div>
 				<div>
-					<h5>Movies</h5>
+					<h4>Movies</h4>
 						<ul>
 							<li>Dead Poets Society</li>
 							<li>The Spongebob Squarepants Movie</li>
@@ -152,7 +158,7 @@
 						</ul>
 				</div>
 				<div>
-					<h5>Musicals</h5>
+					<h4>Musicals</h4>
 						<ul>
 							<li>Hamilton</li>
 							<li>Dear Evan Hansen</li>
@@ -160,7 +166,7 @@
 						</ul>
 				</div>
 				<div>
-					<h5>Musicians</h5>
+					<h4>Musicians</h4>
 						<ul>
 							<li>Ben Platt</li>
 							<li>Vince Guaraldi</li>
@@ -168,7 +174,7 @@
 						</ul>
 				</div>
 				<div>
-					<h5>Seasons</h5>
+					<h4>Seasons</h4>
 						<ul>
 							<li>Winter</li>
 							<li>Fall</li>
@@ -176,7 +182,7 @@
 						</ul>
 				</div>
 				<div>
-					<h5>TV Shows</h5>
+					<h4>TV Shows</h4>
 						<ul>
 							<li>Andi Mack</li>
 							<li>Spongebob Squarepants</li>
@@ -184,15 +190,16 @@
 						</ul>
 				</div>
 		</div>
-			<h4>Pets</h4>
+			<h2>Pets</h2>
+			<div class="pets">
+				<div class="one">
 				<p>Molly has two cats, named Mango and Rosamond.</p>
-				<p>Mango is a fluffy orange cat, whose name Molly did not choose but fits perfectly. He is outgoing and affectionate. He is 6 years old. Rosamond is a calico cat, who enjoys taking naps and looking out the windows at birds. She is 16 years old.</p>
+				<p>Mango is a fluffy orange cat, whose name Molly did not choose but fits perfectly. He is outgoing and affectionate. He is 6 years old. Rosamond is a calico cat, who enjoys taking naps and looking out the windows at birds. She is 16 years old.</p></div>
 				<figure>
 					<img src="images/mkcats.jpg" alt="Cats">
 					<figcaption>Mango and Rosamond</figcaption>
-				</figure>
-			<h4>Skills</h4>
-				<p>Molly is a good writer, an active listener, and is excellent at organization. She has a lot of passions, but finds a way to contribute her time to each of them.</p>
+				</figure></div>
+			
 	</section>
 	</article>
 	</main>
@@ -211,5 +218,12 @@
 			</p>
 	</footer>
 <?php include "inc/scripts.php"; ?>
+	<script>
+		  $( function() {
+		    $( "#accordion" ).accordion({
+		      collapsible: true
+		    });
+		  } );
+  	</script>
 </body>
 </html>

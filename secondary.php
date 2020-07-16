@@ -6,7 +6,7 @@
 
 		<div class="grid">
 			<div class="intrf">
-	        	<h2>Michael Bashner</h2>
+	        	<h2>Michael Bashner</a></h2>
 		        <figure ><img src="images/mb.jpg" alt="Michael Bashner"></figure>
 	        </div>
 

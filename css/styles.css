@@ -76,7 +76,6 @@ figure {
 
 #aamilne, #play, #tolstoy, #lived, #quote, #quote2{
 	font-size: 25px;
-	/*margin-top: 90px;*/
 	font-weight: bold;
 }
 
@@ -140,7 +139,7 @@ span{
 	display: grid;
 	grid-template-columns: 1.3fr 1.5fr 1fr;
 	
-	grid-column-gap: 5px;
+	grid-column-gap: 20px;
 	grid-row-gap: 0px;
 }
 
@@ -175,10 +174,35 @@ span{
 }
 
 
-/*.grid a{
-	grid-column: 3;
+.Academics{
+	display: grid;
+	grid-template-columns: 1fr 1fr;
+	grid-template-rows: repeat(2, 1fr);
+	grid-column-gap: 50px;
+	grid-row-gap: 0px;
+}
+
+.ac{
+	grid-column: 1;
 	grid-row: 1;
-}*/
+}
+
+.classes{
+	grid-column: 2;
+	grid-row: 1;
+}
+
+.Academics h3{
+	background-color: #eee;
+	padding: 10px 0px 10px 15px;
+	margin-bottom: 0px;
+	margin-top: 0px;
+	border-bottom: 0.5px solid slategrey;
+}
+
+.Academics h3:hover{
+  color: mediumvioletred;
+}
 
 .London{
 	font-size: 40px;
@@ -201,6 +225,10 @@ span{
 	margin: 0 auto;
 	max-width: 1000px;
 	width: 95%;
+}
+
+.blackcontent figure{
+	padding-top: 20px;
 }
 
 main header {

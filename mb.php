@@ -12,9 +12,17 @@
 					</div>
 				</header>
 				<section class="container">
-					<h3>Academics</h3>
+						<h2>Skills</h2>
+						<p>Michael can juggle balls and clubs. He has some basic wood working skils. He sing surprisingly high for a bass. He has great programming skills due to his background in Computer Science.</p>
+				</section>
+
+				<section class="container">
+					<h2>Academics</h2><div class="Academics"><div class="ac">
 					<p>Michael is a student at the University of Rochester, majoring in Computer Science, minoring in Linguistics, and clustering in Gender, Sexuality, and Women's Studies.</p>
-					<p>Here is a list of some of the courses he has taken in the computer science field in his time at U of R:</p>
+					<p>Here is a list of some of the courses he has taken in the computer science field in his time at U of R:</p></div>
+					<div class="classes">
+					<div id = "accordion">
+						<h3>Computer Science</h3><div class="pannel">
 					<ul>
 						<li>CSC 170</li>
 						<li>CSC 171</li>
@@ -23,14 +31,13 @@
 						<li>CSC 242</li>
 						<li>CSC 247</li>
 						<li>CSC 250</li>
-					</ul>
+					</ul></div></div></div></div>
 				</section>
 				<section class="container">
-					<h3>Interests</h3>
+					<h2>Interests</h2>
 					<section>
-						<h4>The Arts</h4>
 						<section>
-							<h5>Theater</h5>
+							<h3>Theater</h3>
 							<p>Michael is an active theater lover. On campus, he gets his theater fix by participating in Off Broadway on Campus (OBOC) The pictures below are from shows that he did in high school.</p>
 							<figure class="side-by-side">
 								<figure>
@@ -44,7 +51,7 @@
 							</figure>
 						</section>
 						<section>
-							<h5>Music</h5>
+							<h3>Music</h3>
 							<p>Michael has loved music since he was a little kid. He has been singing since he was young, started playing the ukulele in 10th grade and then moved to playing the guitar in 11th grade. The pictures below are from his participation in No Jacket's Required (NJR) Shows.</p>
 							<figure class="side-by-side">
 								<figure>
@@ -60,15 +67,15 @@
 					</section>
 				</section>
 				<section class="container">
-					<h3>Activities</h3>
+					<h2>Activities</h2>
 					<div class="grida">
 						<div class="article">
-							<h4>On campus</h4>
+							<h3>On campus</h3>
 							<p>At the University of Rochester, Michael is an active member of No Jackets Required (NJR) and Off Broadway on Campus (OBOC).</p>
 							<p>When not in class, he can be found in rehearsal: either singing or playing guitar. He has co-chaired one show for NJR and ran rehersals for two shows. He directed two numbers for OBOC: <cite>Paris Holds the Key (To Your Heart)</cite> from <cite>Anastasia</cite> and <cite>Sit Down, You're Rockin' the Boat</cite> from <cite>Guys and Dolls</cite>.</p>
 						</div>
 						<aside>
-							<h4>Other activities:</h4>
+							<h3>Other activities:</h3>
 							<ul>
 								<li>Video Games</li>
 								<li>Live Action Role Play (LARP)</li>
@@ -84,11 +91,11 @@
 					</div>
 				</section>
 				<section class="container">
-					<h3>Fun facts</h3>
-					<h4>Favorite things</h4>
+					<h2>Fun facts</h2>
+					<h3>Favorite things</h3>
 					<div class="gridi">
 						<div>
-							<h5>Animals</h5>
+							<h4>Animals</h4>
 							<ul>
 								<li>Dogs</li>
 								<li>Dolphins</li>
@@ -96,7 +103,7 @@
 							</ul>
 						</div>
 						<div>
-							<h5>Colors</h5>
+							<h4>Colors</h4>
 							<ul>
 								<li>Blue</li>
 								<li>Magenta</li>
@@ -104,7 +111,7 @@
 							</ul>
 						</div>
 						<div>
-							<h5>Dream Roles</h5>
+							<h4>Dream Roles</h4>
 							<ul>
 								<li>Charlemange from <cite>Pippin</cite></li>
 								<li>Hades from <cite>Hadestown</cite></li>
@@ -112,7 +119,7 @@
 							</ul>
 						</div>
 						<div>
-							<h5>Musicals</h5>
+							<h4>Musicals</h4>
 							<ol>
 								<li><cite>Pippin</cite> by Stephen Schwartz</li>
 								<li><cite>Hadestown</cite> by Anaïs Mitchell</li>
@@ -120,7 +127,7 @@
 							</ol>
 						</div>
 						<div>
-							<h5>Musicians</h5>
+							<h4>Musicians</h4>
 							<ul>
 								<li>Crosby, Stills, & Nash, (& Young)</li>
 								<li>The Who</li>
@@ -128,7 +135,7 @@
 							</ul>
 						</div>
 						<div>
-							<h5>Starkid Musicals</h5>
+							<h4>Starkid Musicals</h4>
 							<ul>
 								<li><cite>Twisted: The Untold Story of a Royal Vizier</cite></li>
 								<li><cite>Black Friday</cite></li>
@@ -136,7 +143,7 @@
 							</ul>
 						</div>
 						<div>
-							<h5>Starkid Musicals (Continued)</h5>
+							<h4>Starkid Musicals (Continued)</h4>
 							<ul>
 								<li><cite>Holy Musical B@Man</cite></li>
 								<li><cite>Trail To Oregon</cite></li>
@@ -144,7 +151,7 @@
 							</ul>
 						</div>
 						<div>
-							<h5>TV/Web Shows</h5>
+							<h4>TV/Web Shows</h4>
 							<ul>
 								<li><cite>Doctor Who</cite></li>
 								<li><cite>Platoon of Power Squadron</cite></li>
@@ -152,7 +159,7 @@
 							</ul>
 						</div>
 						<div>
-							<h5>Video Games</h5>
+							<h4>Video Games</h4>
 							<ul>
 								<li>FTL: Faster than Light</li>
 								<li>Planet Coaster</li>
@@ -161,31 +168,37 @@
 						</div>
 					</div>
 					<section>
-						<h4>Pets</h4>
-						<p>Michael has one dog. Her name is yoda and she is a diva but a good floof ball.</p>
+						<h2>Pets</h2>
+						<div class="pets">
+						<div class="one">
+						<p>Michael has one dog. Her name is yoda and she is a diva but a good floof ball.</p></div>
 			
 							<figure>
 								<img src="images/mbdog.jpg" alt="Michael's Dog and her name is Yoda">
 								<figcaption>Yoda</figcaption>
-							</figure>
+							</figure></div>
 						
 					</section>
-					<section>
-						<h4>Skills</h4>
-						<p>Michael can juggle balls and clubs. He has some basic wood working skils. He sing surprisingly high for a bass. He has great programming skills due to his background in Computer Science.</p>
-					</section>
+					
 				</section>
 			</article>
 		</main>
 		<aside class="container">
 			<p id="quote"><q>There’s no point in being grown up if you can’t be childish sometimes.</q><span> ~ The Doctor</span></p>
 		</aside>
-		<footer>
+		<footer class="container">
 			<p>
 				CSC 174: Advanced Front-end Web Design and Development -
 				<a href="http://csc174.org/lab01/mbashner/" target=_blank>Original Lab 01</a>
 			</p>
 		</footer>
 		<?php include "inc/scripts.php"; ?>
+		<script>
+		  $( function() {
+		    $( "#accordion" ).accordion({
+		      collapsible: true
+		    });
+		  } );
+  		</script>
 	</body>
 </html>

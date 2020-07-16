@@ -18,31 +18,35 @@
 
 				<section class="container">
 					<h2>Academics</h2>
+					<div class="Academics"><div class="ac">
 					<p>Joo Eon Park is a student at the University of Rochester, majoring in Computer Science with a minor in Digital Media Studies. His intended clusters are Music and Public Health.</p>
-					<p>Here are some of the courses he has taken in his time at the University of Rochester:</p>
-					<h3>Computer Science</h3>
+					<p>Here are some of the courses he has taken in his time at the University of Rochester:</p></div>
+					<div class="classes">
+						<div id = "accordion">
+					<h3>Computer Science</h3><div class="pannel">
 					<ul>
 						<li>CSC 170 - Introduction to Web Development</li>
 						<li>CSC 171 - Introduction to Computer Science</li>
 						<li>CSC 172 - Data Structures & Algorithms</li>
 						<li>CSC 173 - Computation & Formal Systems</li>
 						<li>CSC 186 - Video Game Development</li>
-					</ul>
-					<h3>Music</h3>
+					</ul></div>
+					<h3>Music</h3><div class="pannel">
 					<ul>
 						<li>MUR 101 - Elements of Music</li>
 						<li>MUR 109 - Musicianship</li>
 						<li>MUR 180 - Rock Repertory Ensemmble</li>
 						<li>JAZ 130 - Jazz Guitar Lessons at Eastman</li>
-					</ul>
-					<h3>Other Interesting Courses</h3>
+					</ul></div>
+					<h3>Other Interesting Courses</h3><div class="pannel">
 					<ul>
 						<li>AME 140 - Introduction to Audio & Music Engineering</li>
 						<li>DMS 103 - Essential Digital Media Toolkit</li>
 						<li>DMS 110 - Video Game History</li>
 						<li>DMS 120 - Video Game Design</li>
 						<li>SA 181 - Introduction to Printmaking</li>
-					</ul>
+					</ul></div></div></div>
+				</div>
 				</section>
 				<section class="container">
 					<h2>Interests</h2>
@@ -202,5 +206,13 @@
 		</p>
 	</footer>
 	<?php include "inc/scripts.php"; ?>
+
+	 <script>
+		  $( function() {
+		    $( "#accordion" ).accordion({
+		      collapsible: true
+		    });
+		  } );
+  	</script>
 </body>
 </html>

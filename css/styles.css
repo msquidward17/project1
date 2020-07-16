@@ -127,26 +127,47 @@ span{
 
 .grid{
 	display: grid;
-	grid-template-columns: 1fr 2fr 1fr;
-	grid-template-rows: repeat(3, 1fr);
-	grid-column-gap: 15px;
+	grid-template-columns: 1.3fr 1.5fr 1fr;
+	
+	grid-column-gap: 5px;
 	grid-row-gap: 0px;
 }
 
 .grid figure{
-	grid-column: 1;
-	grid-row: 1;
+	margin-left: 0px; /*align img and heading on the same vertical line*/
 }
 
-.grid p{
-	grid-column: 2;
-	grid-row: 1;
+.intrf{
+	grid-column: 1 / 2;
+	grid-row: 1 / 2;
 }
 
-.grid a{
+.intrp{
+	grid-column: 2 / 3;
+	grid-row: 1 / 2;
+
+	
+}
+.intrp p{
+	height: 398px;
+	display: table-cell;
+    vertical-align: middle;
+}
+.rdmore{
+	grid-column: 3 / 4;
+	grid-row: 1 / 2;
+}
+.rdmore a{
+	height: 398px;
+	display: table-cell;
+    vertical-align: middle;
+}
+
+
+/*.grid a{
 	grid-column: 3;
 	grid-row: 1;
-}
+}*/
 
 .London{
 	font-size: 40px;

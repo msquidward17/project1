@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=M+PLUS+Rounded+1c&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Raleway&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Mulish&display=swap');
 
 /*******************************BASE STYLES*************************************/
 
@@ -234,7 +234,7 @@ main header {
 	font-size: 40px;
 	padding-top: 5px;
 	color: #e8d21d;
-	font-family: 'Roboto', sans-serif;
+	font-family: 'Mulish', sans-serif;
 }
 
 .homebtn
@@ -248,7 +248,7 @@ main header {
 
 .name{
 	color: #e8d21d;
-	font-family: 'Roboto', sans-serif;
+	font-family: 'Mulish', sans-serif;
 }
 
 

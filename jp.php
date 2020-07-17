@@ -1,5 +1,6 @@
 <?php include "inc/html-top.php"; ?>
 <?php include "inc/nav.php"; ?>
+
 		<main>
 			<article>
 				<header class="blacktop">
@@ -200,7 +201,7 @@
 			</aside>
 		</article>
 	</main>
-	<footer class="container">
+	<footer>
 		<p>
 			CSC 174: Advanced Front-end Web Design and Development -
 			<a href="http://csc174.org/lab01/jpark174/" target=_blank>Original Lab 01</a>

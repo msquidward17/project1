@@ -212,7 +212,7 @@
 		-->
 		<p id="lived"><q>...and not, when I had come to die, discover that I had not lived.</q><span> ~ Thoreau</span></p>
 	</aside>
-	<footer class="container">
+	<footer>
 			<p>
 			CSC 174: Advanced Front-end Web Design and Development -
 			<a href="http://csc174.org/lab01/mkilian/lab01/" target=_blank>Original Lab 01</a>

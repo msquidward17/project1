@@ -1,5 +1,5 @@
 <?php include "inc/html-top.php"; ?>
-<div class="container">
+
 	
 <article>
 	<header class="blacktop2">
@@ -8,6 +8,7 @@
 			<h1 class="London">London</h1>
 		</div>
 	</header>
+	<div class="container">
 
 		<div class="grid">
 			<div class="intrf">

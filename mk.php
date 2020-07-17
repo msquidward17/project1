@@ -7,7 +7,7 @@
 					<figure>
 						<img src="images/headshot.jpg" alt="Molly Kilian">
 					</figure>
-					<h2>Molly Kilian</h2>
+					<h2 class="name">Molly Kilian</h2>
 					<p>Molly Kilian (she/her) is an active student at the University of Rochester. She pushes herself academically and creatively, and believes in treating others with kindness.</p>
 					<p>She is from Utica, NY, and has one older brother and two cats. Her mother is an art teacher and her father is a newspaper editor.</p>
 				</div>
@@ -212,7 +212,7 @@
 		-->
 		<p id="lived"><q>...and not, when I had come to die, discover that I had not lived.</q><span> ~ Thoreau</span></p>
 	</aside>
-	<footer>
+	<footer class="container">
 			<p>
 			CSC 174: Advanced Front-end Web Design and Development -
 			<a href="http://csc174.org/lab01/mkilian/lab01/" target=_blank>Original Lab 01</a>

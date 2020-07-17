@@ -12,7 +12,9 @@
 		<div class="grid">
 			<div class="intrf">
 	        	<h2>Michael Bashner</a></h2>
-		        <figure ><img src="images/mb.jpg" alt="Michael Bashner"></figure>
+		        <figure >
+		        	<img src="images/mb.jpg" alt="Michael Bashner">
+		        </figure>
 	        </div>
 
 	        <div class="intrp">
@@ -44,7 +46,7 @@
  
 
  		<div class="grid">
-    		<div class="third-row">
+    		<div class="intrf">
 	        	<h2>Joo Eon Park</h2>
 		        <figure>
 		        	<img src="images/jp_self.jpg" alt="Joo Eon Park">

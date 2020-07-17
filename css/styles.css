@@ -95,7 +95,7 @@ footer p{
 .pets{
 	display: grid;
 	grid-template-columns: 1fr 1fr;
-	grid-template-rows: repeat(2, 1fr);
+	/*grid-template-rows: repeat(2, 1fr);*/
 	grid-column-gap: 15px;
 	grid-row-gap: 0px;
 }
@@ -151,7 +151,7 @@ footer p{
 .Academics{
 	display: grid;
 	grid-template-columns: 1fr 1fr;
-	grid-template-rows: repeat(2, 1fr);
+	/*grid-template-rows: repeat(2, 1fr);*/
 	grid-column-gap: 50px;
 	grid-row-gap: 0px;
 }

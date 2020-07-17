@@ -7,13 +7,13 @@
 						<figure>
 							<img src="images/jp_self.jpg" alt="Joo Eon Park">
 						</figure>
-						<h2>Joo Eon Park</h2>
+						<h2 class="name">Joo Eon Park</h2>
 						<p>Joo Eon Park (he/him) is a rising junior at the University of Rochester. He has a wide range of interests, including art, music, and technology, and tries his best to learn from a variety of different experiences available to him in college.</p>
 						<p>He is from South Korea, and was born and raised there. He is fluent in both English and Korean (and speaks a bit of French).</p>
 					</div>
 				</header>
 				<section class="container">
-					<h2>Skills</h2>
+					<h2 class="skills">Skills</h2>
 					<p>Joo Eon speaks a variety of languages. He has good computer programming skills, great artistic skills, and is good at music.</p>
 				</section>
 

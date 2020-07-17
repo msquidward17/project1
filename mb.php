@@ -7,7 +7,7 @@
 						<figure>
 							<img src="images/mb.jpg" alt="Michael Bashner">
 						</figure>
-						<h2>Michael Bashner</h2>
+						<h2 class="name">Michael Bashner</h2>
 						<p>Michael Bashner (he/him) is a rising senior at the University of Rochester. He is a computer science major, a linguistics minor, has a cluster in gender, sexuality, and women's studies.</p>
 						<p>He is from Brooklyn and has a younger sister. His mom is a gynecologist and his dad used to be a real estate lawyer.</p>
 					</div>

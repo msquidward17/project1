@@ -1,12 +1,13 @@
 @import url('https://fonts.googleapis.com/css2?family=Varela+Round&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Raleway&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
 
 /*******************************BASE STYLES*************************************/
 
 body {
 	background: #FFFFFF;
 	font-family: 'Raleway', sans-serif;
-	line-height : 2.0em;
+	line-height : 2.2em;
 	margin: 0px;
 }
 
@@ -21,14 +22,16 @@ body {
 }
 
 h1 {
-	color: mediumvioletred;
+	color: #cf1578;
 	font-family: 'Varela Round', sans-serif;
 }
 
 h2{
 	font-family: 'Varela Round', sans-serif;
-	color: mediumvioletred;
+	color: #cf1578;
 	font-weight : bold;
+	padding-bottom: 0px;
+	margin-bottom: 0px;
 }
 
 h3 {
@@ -41,14 +44,16 @@ h4 {
 	font-family: 'Varela Round', sans-serif;
 }
 
+
 a {
-	color: #018c94;
+	color: #039fbe;
 	text-decoration : none;
 }
 
 a:hover {
-	color : mediumvioletred;
+	color : #d9138a;
 }
+
 
 figure {
 	text-align: center;
@@ -58,9 +63,19 @@ figure {
 
 span{
 	font-size: 25px;
-	color: mediumvioletred;
+	color:#cf1578;
 }
 
+footer{
+	position: relative;
+}
+
+footer p{
+	position: absolute;
+	bottom: 0;
+	background-color: white;
+	width: 100%;
+}
 
 /*********************LAYOUT*************************************/
 
@@ -68,7 +83,7 @@ span{
 .grida {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
-    grid-gap: 10px;
+    grid-gap: 80px;
 }
 
 .gridi {
@@ -157,10 +172,11 @@ span{
 	margin-bottom: 0px;
 	margin-top: 0px;
 	border-bottom: 0.5px solid slategrey;
+	color: #027f98;
 }
 
 .Academics h3:hover{
-  color: mediumvioletred;
+  color: #cf1578;
 }
 
 
@@ -168,10 +184,10 @@ span{
 
 /* black background */
 .blacktop{
-	min-height: 90vh;
+	min-height: 60vh;
 	padding-bottom: 50px;
-	border-bottom: solid 50px;
-	border-bottom-color: mediumvioletred;
+	border-bottom: solid 30px;
+	border-bottom-color: #cf1578;
 	background-color: #000000;
 	color: #FFFFFF;
 	margin-top: 0px;
@@ -181,7 +197,7 @@ span{
 .blacktop2{
 	padding-bottom: 10px;
 	border-bottom: solid 10px;
-	border-bottom-color: mediumvioletred;
+	border-bottom-color: #cf1578;
 	background-color: #000000;
 	color: #FFFFFF;
 	margin-top: 0px;
@@ -212,6 +228,8 @@ main header {
 .London{
 	font-size: 40px;
 	padding-top: 5px;
+	color: #e8d21d;
+	font-family: 'Montserrat', sans-serif;
 }
 
 .homebtn
@@ -220,7 +238,16 @@ main header {
 	padding-bottom: 0px;
 	margin-bottom: 0px;
 	font-size: 22px;
+	
 }
+
+.name{
+	color: #e8d21d;
+	font-family: 'Montserrat', sans-serif;
+}
+
+
+
 /*quote design*/
 
 #aamilne, #play, #tolstoy, #lived, #quote, #quote2{

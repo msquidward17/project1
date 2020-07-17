@@ -1,4 +1,4 @@
-<?php include "inc/html-top.php"; ?>
+ <?php include "inc/html-top.php"; ?>
 <?php include "inc/nav.php"; ?>
 	<main>
 		<article>

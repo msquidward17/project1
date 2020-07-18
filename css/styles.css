@@ -1,10 +1,12 @@
-@import url('https://fonts.googleapis.com/css2?family=Varela+Round&display=swap');
-/*general*/
+@import url('https://fonts.googleapis.com/css2?family=M+PLUS+Rounded+1c&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Raleway&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Mulish&display=swap');
+
+/*******************************BASE STYLES*************************************/
 
 body {
 	background: #FFFFFF;
-/*	background: linear-gradient(0deg, rgba(73,73,73,1) 0%, rgba(148,148,148,1) 25%, rgba(255,154,185,1) 75%, rgba(255,105,166,1) 100%);*/
-	font-family: 'Varela Round', sans-serif;
+	font-family: 'Raleway', sans-serif;
 	line-height : 2.2em;
 	margin: 0px;
 }
@@ -15,54 +17,43 @@ body {
 	width: 95%;
 }
 
-/* .article {
-	margin-top: 50px;
-} */
-
 ::selection {
 	background: whitesmoke;
 }
 
-/*specific*/
-
 h1 {
-	/*color: pink;*/
-	/*font-family: 'Niconne', cursive;*/
-	font-size: 45px;
-	text-shadow: 1px 2px 2px indigo;
-	margin: auto 1vw;
+	color: #cf1578;
+	font-family: 'M PLUS Rounded 1c', sans-serif;
 }
 
 h2{
-		font-size: 40px;
+	font-family: 'M PLUS Rounded 1c', sans-serif;
+	color: #cf1578;
+	font-weight : bold;
+	padding-bottom: 0px;
+	margin-bottom: 0px;
 }
 
 h3 {
-	font-size: 25px;
-	font-weight : bold;
-	margin-bottom : 10px;
-	color: mediumvioletred;
-	padding: 10px 10px 0px 50px;
+	margin-bottom : 0px;
+	font-family: 'M PLUS Rounded 1c', sans-serif;
 }
 
 h4 {
-	font-size: 15px;
 	color: #000000;
+	font-family: 'M PLUS Rounded 1c', sans-serif;
 }
 
 
 a {
-	color : darkmagenta;
+	color: #039fbe;
 	text-decoration : none;
 }
 
 a:hover {
-	color : mediumvioletred;
+	color : #d9138a;
 }
 
-p {
-	margin: 20px 10px 20px 10px;
-}
 
 figure {
 	text-align: center;
@@ -70,82 +61,162 @@ figure {
 	/* margin-top: 0; */
 }
 
-img{
-	filter: grayscale(100%);
-}
-
-img:hover{
-	filter: grayscale(0%);
-}
-
-/*Molly's grid layout*/
-
-.grida {
-    display: grid;
-    grid-template-columns: repeat(2, 1fr);
-    gap: 25px;
-}
-
-.gridi {
-    display: grid;
-    grid-template-columns: repeat(3, 1fr);
-    gap: 10px;
-}
-
-/*quote design*/
-
-#aamilne, #play, #tolstoy, #lived, #quote, #quote2{
-	font-size: 35px;
-	margin-top: 90px;
-	font-weight: bold;
+figcaption{
+	width: 280px;
+	text-align: center;
 }
 
 span{
 	font-size: 25px;
-	color: mediumvioletred;
+	color:#cf1578;
 }
 
+footer{
+	position: relative;
+}
 
-/*index*/
-.intros{
+footer p{
+	position: absolute;
+	bottom: 0;
+	background-color: white;
+	width: 100%;
+}
+
+/*********************LAYOUT*************************************/
+
+
+.grida {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-gap: 80px;
+}
+
+.gridi {
+    display: grid;
+   /* grid-template-columns: repeat(3, 1fr);*/
+    grid-gap: 10px;
+}
+
+.pets{
 	display: grid;
 	grid-template-columns: 1fr 1fr;
-	gap: 25px;
+	grid-template-rows: repeat(1, 1fr);
+	grid-column-gap: 15px;
+	grid-row-gap: 0px;
 }
 
-.homepage{
-	align-items: center;
-	justify-content: center;
+.one{
+	grid-row: 1;
+	grid-column: 1;
 }
 
-.homepage li{
-	list-style-type: none;
-	padding: 5px;
-	max-width: 400px;
+.pets figure{
+	grid-row: 1;
+	grid-column: 2;
 }
 
-.homepage p{
-	margin: 0px 5px 0px 5px;
+.grid{
+	display: grid;
+	grid-template-columns: 1.3fr 1.5fr 1fr;
+	
+	grid-column-gap: 20px;
+	grid-row-gap: 0px;
 }
 
-.homepage h2{
-	color: #000000;
+.grid figure{
+	margin-left: 0px; /*align img and heading on the same vertical line*/
 }
 
-.homepage ul{
+.intrf{
+	grid-column: 1 / 2;
+	grid-row: 1 / 2;
+}
+
+.intrp{
+	grid-column: 2 / 3;
+	grid-row: 1 / 2;
+
+	
+}
+.intrp p{
+	height: 398px;
+	display: table-cell;
+    vertical-align: middle;
+}
+.rdmore{
+	grid-column: 3 / 4;
+	grid-row: 1 / 2;
+}
+.rdmore a{
+	height: 398px;
+	display: table-cell;
+    vertical-align: middle;
+}
+
+.Academics{
 	display: grid;
 	grid-template-columns: 1fr 1fr;
-	gap: 25px;
+	/*grid-template-rows: repeat(2, 1fr);*/
+	grid-column-gap: 50px;
+	grid-row-gap: 0px;
 }
+
+.ac{
+	grid-column: 1;
+	grid-row: 1;
+}
+
+.classes{
+	grid-column: 2;
+	grid-row: 1;
+}
+
+.Academics h3{
+	background-color: #eee;
+	padding: 10px 0px 10px 15px;
+	margin-bottom: 0px;
+	margin-top: 0px;
+	border-bottom: 0.5px solid slategrey;
+	color: #027f98;
+}
+
+.Favourites h4{
+	background-color: #eee;
+	padding: 10px 0px 10px 15px;
+	margin-bottom: 0px;
+	margin-top: 0px;
+	border-bottom: 0.5px solid slategrey;
+	color: #027f98;
+}
+
+.Academics h3:hover{
+  color: #cf1578;
+}
+
+
+/************************************MODULES***********************************/
 
 /* black background */
 .blacktop{
-	min-height: 90vh;
+	min-height: 60vh;
 	padding-bottom: 50px;
-	border-bottom: solid 50px;
-	border-bottom-color: mediumvioletred;
-	background-color: #000000;
+	border-bottom: solid 30px;
+	border-bottom-color: #cf1578;
+	background-color: #322e2f;
 	color: #FFFFFF;
+	margin-top: 0px;
+	padding-top: 0px;
+}
+
+.blacktop2{
+	padding-bottom: 10px;
+	border-bottom: solid 10px;
+	border-bottom-color: #cf1578;
+	background-color: #322e2f;
+	color: #FFFFFF;
+	margin-top: 0px;
+	padding-top: 0px;
+	margin-bottom: 10px;
 }
 
 .blackcontent{
@@ -154,14 +225,46 @@ span{
 	width: 95%;
 }
 
+.blackcontent figure{
+	padding-top: 20px;
+}
+
 main header {
 	flex-direction: column;
 }
 
-
 .side-by-side {
 	display: flex;
 	flex-direction: row;
-	/* align-content: center; */
 	justify-content: center;
+}
+
+.London{
+	font-size: 40px;
+	padding-top: 5px;
+	color: #e8d21d;
+	font-family: 'Mulish', sans-serif;
+}
+
+.homebtn
+{
+	text-align: right;
+	padding-bottom: 0px;
+	margin-bottom: 0px;
+	font-size: 22px;
+	
+}
+
+.name{
+	color: #e8d21d;
+	font-family: 'Mulish', sans-serif;
+}
+
+
+
+/*quote design*/
+
+#aamilne, #play, #tolstoy, #lived, #quote, #quote2{
+	font-size: 25px;
+	font-weight: bold;
 }

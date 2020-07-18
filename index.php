@@ -1,56 +1,17 @@
-<?php include "inc/home-html-top.php" ?>
+<?php include "inc/html-top.php"; ?>
+<div class="container">
 
-</head>
-<body>
-	<section class="upper-left">
-		<img src="images/logo.png" alt="csc 174">
-		<div class="number-semester">
-			<div class="semester">2020 Summer</div>
-			<div class="class-number">CSC 174</div>
-		</div>
-	</section>
+<p>This will be the Z-pattern design</p>
+<a href="secondary.php" class="rdmore">About Our Team</a>
 
+<footer>
+	<p>
+	CSC 174: Advanced Front-end Web Design and Development -
+	<a href="http://docs.csc174.org" target=_blank>Course home page</a>
+	</p>
+</footer>
 
-	<section class="upper-right">
-		<div class="login-container">
-			<a href="">Login</a>
-		</div>
-	</section>
-
-
-	<section class="middle">
-		<div class="welcome">Welcome!</div>		
-	</section>
-
-
-
-	<section class="bottom-left">
-		<div class="name-reference">
-			<div class="class-name">Advanced Front-end Web Design and Development</div>
-			<img src="images/book-reference.png"  alt="book-logo">
-			<a href="https://docs.csc174.org/" target="_blank">About this course</a>
-		</div>
-	</section>
-
-
-
-	<section class="bottom-right">
-		<div class="team-reference">
-			<a href="secondary.php">View Our Teams</a>
-		</div>
-	</section>
-
-
-<!-- 	<section>
-	</section>
-
-	<section>
-	</section>
-
-	<section>
-	</section>
-
-	<section>
-	</section> -->
+</div>
+<?php include "inc/scripts.php"; ?>
 </body>
 </html>
